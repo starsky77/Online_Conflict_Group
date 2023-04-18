@@ -1,0 +1,17 @@
+name: wiki
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - jsonschema
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pip
+  - pip:
+    - torchtext
