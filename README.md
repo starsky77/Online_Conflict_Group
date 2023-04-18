@@ -11,6 +11,6 @@ Run `python3 DTW.py` to get the visualization result of the hierarchy clustering
 
 Run `python3 vis_group.py` to get each cluster's visualization result in `group_x_plots.png`
 
-`vis_color.py` is used to get the visualization result of all the conversation, each user would have different color in the visualization result.
+`vis_color.py` is used to get the visualization result of all the conversations, each user would have different color in the visualization result.
 
-`vis.py` is used to create all the plot in `Vis`.
+`vis.py` is used to create all the plots in `Vis`.
