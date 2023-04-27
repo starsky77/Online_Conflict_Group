@@ -6,8 +6,10 @@ import numpy as np
 def map_label_to_int(label):
     try:
         label_int = int(label[2])
-        if 0 <= label_int <= 1:
-            return 2  # Relationship conflict
+        if label_int == 0:
+            return 3  # DH0
+        elif label_int == 1:
+            return 2  # DH1
         elif 2 <= label_int <= 7:
             return 1  # Task conflict
         else:
@@ -32,10 +34,8 @@ for i in range(213):
     for uter in data[i]["utterances"]:
         flag = -1
         for label in uter["rebuttal_labels"]:
-            if map_label_to_int(label) == 2:
-                flag = 2
-            elif flag != 2 and map_label_to_int(label) == 1:
-                flag = 1
+            if map_label_to_int(label)> flag:
+                flag=map_label_to_int(label)
             
         uter_labels.append(flag)
 
@@ -50,5 +50,5 @@ for i in range(213):
 
     plt.title(str(i))
 
-plt.savefig('all_subplots_colored_connected.png', dpi=300)
+plt.savefig('all_subplots_colored_connected_3level.png', dpi=300)
 plt.close()
