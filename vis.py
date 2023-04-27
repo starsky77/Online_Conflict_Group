@@ -4,6 +4,17 @@ import json
 import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
+from colorama import Fore, Back, Style, init
+
+init(autoreset=True)
+
+# Define available colors
+colors = [Fore.RED, Fore.GREEN, Fore.BLUE, Fore.CYAN, Fore.MAGENTA, Fore.YELLOW, Fore.WHITE]
+
+def get_color(username):
+    if username not in color_mapping:
+        color_mapping[username] = colors[len(color_mapping) % len(colors)]
+    return color_mapping[username]
 
 
 def map_label_to_int(label):
@@ -20,28 +31,10 @@ def map_label_to_int(label):
 
 
 data = json.load(open("./Data/wikitactics.json", "r"))
+
+
 colormap = plt.cm.get_cmap("tab10")
-
 sns.set_style("darkgrid")
-
-# for i in range(213):
-#     uter_labels = []
-#     for uter in data[i]["utterances"]:
-#         flag = -1
-#         for label in uter["rebuttal_labels"]:
-#             if map_label_to_int(label)> flag:
-#                 flag=map_label_to_int(label)
-            
-#         uter_labels.append(flag)
-
-#     plt.figure(figsize=(10, 8))
-#     plt.plot(uter_labels)
-#     plt.title(str(data[i]["conv_id"]))
-#     plt.savefig(f'./Vis/conv_{i}.png')
-#     plt.close()
-#     with open(f'./Vis/conv_{i}.txt', 'w') as f:
-#         for uterance in data[i]["utterances"]:
-#             f.write(str(uterance) + '\n')
 
 
 for i in range(213):
@@ -74,6 +67,15 @@ for i in range(213):
     plt.title(str(data[i]["conv_id"]))
     plt.savefig(f'./Vis/conv_{i}.png')
     plt.close()
-    with open(f'./Vis/conv_{i}.txt', 'w') as f:
-        for uterance in data[i]["utterances"]:
-            f.write(str(uterance) + '\n')
+
+    # Write the formatted text to a file
+    color_mapping = {}
+    with open(f'./Vis/conv_{i}.ans', 'w') as f:
+        for utterance in data[i]["utterances"]:
+            username = utterance['username']
+            text = utterance['text']
+            rebuttal_begin="rebuttal_labels:"
+            rebuttal_labels = ', '.join(utterance['rebuttal_labels'])
+
+            line = f"{get_color(username)}{username}: {text} {rebuttal_begin}: {rebuttal_labels}\n"
+            f.write(line)

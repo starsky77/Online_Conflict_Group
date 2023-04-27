@@ -1,0 +1,10 @@
+[31mThis is red text.
+[32mThis is green text.
+[34mThis is blue text.
+[43mThis is text with a yellow background.
+[46mThis is text with a cyan background.
+[45mThis is text with a magenta background.
+[31m[43mThis is red text on a yellow background.
+[1mThis is bright text.
+[2mThis is dim text.
+[22mThis is normal text.
