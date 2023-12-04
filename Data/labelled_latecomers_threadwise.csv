@@ -1,0 +1,2282 @@
+page_id,page_title,thread,latecomer
+722.0,Animal,4,1
+1803.0,Apollo,3,1
+2000.0,Arabic,1,1
+2066.0,HIV/AIDS,26,0
+2301.0,Abraham Lincoln,2,1
+2301.0,Abraham Lincoln,13,0
+2301.0,Abraham Lincoln,30,1
+2301.0,Abraham Lincoln,36,1
+2301.0,Abraham Lincoln,40,1
+2545.0,Art,4,0
+2933.0,Axiom of choice,1,0
+2960.0,Astrology,16,1
+3872.0,Bacteria,5,1
+3915.0,Bible,7,1
+4244.0,Basketball,1,1
+4638.0,British Isles,1,0
+4638.0,British Isles,2,1
+4725.0,Boy band,2,1
+4732.0,Batman,5,0
+4732.0,Batman,18,1
+4769.0,Cell (biology),7,1
+4769.0,Cell (biology),8,0
+4894.0,Bipolar disorder,8,0
+5006.0,Benito Mussolini,5,1
+5006.0,Benito Mussolini,7,1
+6126.0,Charles Darwin,20,1
+6929.0,Celts,3,1
+6929.0,Celts,13,1
+7095.0,Chocolate,2,0
+7640.0,Traditional Chinese medicine,2,1
+8261.0,De Moivre's formula,2,0
+8532.0,Dragon,1,0
+8532.0,Dragon,5,0
+8532.0,Dragon,6,0
+9345.0,Ecuador,3,0
+9462.0,English language,21,0
+9721.0,Echidna,3,1
+9879.0,East Germany,1,1
+9889.0,England,1,1
+9958.0,Eurovision Song Contest,8,1
+10647.0,Food,6,0
+10726.0,France,8,0
+11453.0,Flag of the United States,6,1
+11703.0,Friedrich Nietzsche,0,1
+11796.0,Frederick William I of Prussia,1,1
+11937.0,Germany,27,1
+12715.0,Giant panda,6,1
+12813.0,Golden ratio,1,1
+12813.0,Golden ratio,6,0
+13165.0,Government,1,0
+13521.0,Huns,10,0
+13778.0,The Holocaust,18,1
+13778.0,The Holocaust,30,0
+13783.0,Hebrew calendar,3,0
+13918.0,Hamas,5,1
+13918.0,Hamas,14,0
+14083.0,Human sexuality,1,0
+14274.0,Homeopathy,8,1
+14274.0,Homeopathy,16,1
+14274.0,Homeopathy,31,1
+14274.0,Homeopathy,36,1
+14370.0,Humphry Davy,4,0
+14695.0,Israel,28,0
+14695.0,Israel,34,1
+14781.0,Inuit,1,1
+14864.0,Islamic calendar,8,1
+14917.0,Intelligence quotient,10,1
+15013.0,Islamism,1,0
+15258.0,Immaculate Conception,1,1
+15299.0,Intelligent design,5,1
+15299.0,Intelligent design,9,1
+15586.0,Japan,1,0
+15586.0,Japan,7,1
+15586.0,Japan,9,0
+15586.0,Japan,12,1
+15646.0,John F. Kennedy,7,0
+15646.0,John F. Kennedy,8,0
+16101.0,Jonathan Richman,2,1
+16235.0,James Bond,0,1
+16780.0,Ku Klux Klan,15,1
+17456.0,Karl Marx,15,0
+17919.0,Ludwig Wittgenstein,4,0
+18361.0,Live action role-playing game,1,0
+18709.0,Leonardo da Vinci,17,1
+20068.0,Mumia Abu-Jamal,5,0
+20800.0,Malcolm X,17,0
+21420.0,Norway,2,1
+21529.0,Natural number,12,1
+21616.0,Nostradamus,10,0
+21616.0,Nostradamus,15,1
+23214.0,Political correctness,11,1
+23662.0,Pythagorean theorem,0,1
+23948.0,Palestine (region),8,1
+24142.0,Prime Minister of Australia,2,1
+24367.0,Penis,1,1
+24367.0,Penis,4,0
+24712.0,North American P-51 Mustang,2,1
+24952.0,Profanity,8,1
+25885.0,Religion,13,0
+25931.0,Race (human categorization),8,1
+25931.0,Race (human categorization),16,0
+25931.0,Race (human categorization),26,1
+26155.0,Romani people,1,0
+26585.0,Roman numerals,7,0
+26585.0,Roman numerals,8,1
+26864.0,Soviet Union,7,1
+26864.0,Soviet Union,14,1
+27175.0,Sexism,12,1
+27175.0,Sexism,13,1
+28031.0,Sexual intercourse,9,1
+30300.0,Technology,1,1
+30300.0,Technology,16,1
+30331.0,Thales,1,1
+31681.0,United States Constitution,5,1
+31946.0,List of metro systems,3,1
+31946.0,List of metro systems,18,1
+32072.0,USS Liberty incident,12,0
+32387.0,Vietnam,9,1
+32613.0,Vietnam War,19,1
+32805.0,Vagina,1,1
+32805.0,Vagina,9,0
+32805.0,Vagina,12,1
+32805.0,Vagina,16,0
+33113.0,World War I,9,1
+33113.0,World War I,15,1
+33113.0,World War I,23,0
+33233.0,William Shakespeare,2,1
+33233.0,William Shakespeare,5,1
+33233.0,William Shakespeare,7,1
+33233.0,William Shakespeare,20,1
+33233.0,William Shakespeare,25,1
+33233.0,William Shakespeare,27,0
+33503.0,Wiki,12,1
+33503.0,Wiki,14,0
+33503.0,Wiki,28,0
+33776.0,Gray wolf,21,1
+34517.0,Zeus,6,1
+37263.0,African Americans,0,1
+37263.0,African Americans,16,1
+37263.0,African Americans,34,0
+37813.0,Real Madrid C.F.,6,1
+39228.0,Race and intelligence,29,0
+39779.0,Time signature,2,1
+40104.0,MOS Technology 6502,2,0
+40438.0,Waltzing Matilda,1,0
+44921.0,Turkic peoples,8,1
+45496.0,Death,3,1
+46643.0,Maoism,1,0
+47159.0,Debian,3,1
+47741.0,Shark,3,0
+48373.0,Israeli settlement,7,1
+49394.0,Nazism,0,1
+50391.0,Quiz bowl,5,0
+50492.0,Magnesium,1,1
+50514.0,Semitic languages,8,1
+51047.0,Pope Leo X,3,1
+51551.0,Fourteenth Amendment to the United States Constitution,4,0
+52690.0,Limerick (poetry),1,1
+53128.0,Somaliland,1,1
+53587.0,Mnemonic,1,0
+54150.0,Colosseum,5,1
+54616.0,Apple Inc.,0,1
+54622.0,Jim Crow laws,11,0
+54704.0,Counterfactual definiteness,2,0
+55114.0,Deforestation,5,0
+55324.0,Jews,7,1
+55324.0,Jews,38,1
+56088.0,Sailor Moon,29,0
+56088.0,Sailor Moon,30,0
+56586.0,Zoroastrianism,19,1
+57256.0,Sherlock Holmes,2,1
+57594.0,George Washington,5,1
+57594.0,George Washington,8,1
+57594.0,George Washington,12,0
+57594.0,George Washington,13,1
+57594.0,George Washington,30,1
+57594.0,George Washington,42,1
+57594.0,George Washington,47,0
+57594.0,George Washington,50,1
+58012.0,Ebola virus disease,4,1
+58012.0,Ebola virus disease,5,1
+59492.0,Jimi Hendrix,1,1
+59505.0,Niccolò Machiavelli,3,1
+61156.0,Promiscuity,4,0
+61628.0,Air pollution,2,1
+62334.0,The Police,1,1
+63917.0,China,2,1
+63917.0,China,20,0
+63925.0,Mandatory Palestine,14,0
+63931.0,Taiwan,14,1
+63970.0,Lord's Prayer,2,0
+64310.0,Ivo Andrić,7,1
+65348.0,Michael Jackson,7,1
+65654.0,Holocaust denial,2,1
+65717.0,Nanking Massacre,0,1
+66571.0,Gun control,1,1
+66571.0,Gun control,7,1
+66652.0,Roald Dahl,4,1
+67091.0,Transphobia,1,1
+67208.0,Lawrence of Arabia (film),1,1
+67448.0,Sabra and Shatila massacre,0,1
+67664.0,Steve Jobs,16,0
+68234.0,Rabbit,6,1
+68235.0,Gay,1,1
+68235.0,Gay,5,1
+70053.0,Rainforest,2,1
+70094.0,Carl Philipp Emanuel Bach,4,0
+70404.0,Euclidean algorithm,4,0
+70731.0,Muammar Gaddafi,3,0
+70864.0,Pencil,4,1
+71723.0,Dinner,2,0
+71828.0,New York,4,1
+71867.0,Marija Gimbutas,0,1
+71961.0,Hades,1,1
+73652.0,Mary (mother of Jesus),6,1
+74008.0,Butt,2,1
+75059.0,Manhattan,2,1
+75492.0,The Beatles (album),7,0
+76112.0,John James Audubon,2,0
+76295.0,Josip Broz Tito,17,0
+76295.0,Josip Broz Tito,19,0
+77265.0,Diesel engine,10,0
+77351.0,Patrick Henry,5,1
+77537.0,Queen Victoria,5,1
+79992.0,Turkey,21,1
+83431.0,Mother,2,1
+83865.0,Narwhal,2,1
+87226.0,Croatia,7,1
+87226.0,Croatia,8,0
+89030.0,Cattle,11,0
+89994.0,Poverty,3,1
+91442.0,Snake,1,1
+94993.0,Arizona,2,1
+95368.0,Heavy metal music,8,1
+97544.0,Wright brothers,6,1
+99674.0,Languages of Europe,1,1
+101054.0,Hydrogen,2,0
+101223.0,Uranus,11,1
+101556.0,Hillary Clinton,5,1
+101698.0,Thomas Jefferson,15,1
+101698.0,Thomas Jefferson,17,1
+101698.0,Thomas Jefferson,39,0
+101985.0,Helium,6,1
+102568.0,"John Forbes Nash, Jr.",4,1
+104141.0,Georg Cantor,3,0
+105650.0,Aztec,2,1
+105650.0,Aztec,9,0
+113503.0,Conjunction (grammar),1,1
+128044.0,Central Europe,2,1
+133091.0,Wonder Woman,7,1
+137706.0,Antonín Dvořák,7,1
+142157.0,Motion Picture Association of America film rating system,16,0
+142929.0,Rabbi,0,0
+143395.0,Mohammed Omar,1,1
+144847.0,Moors,1,1
+146799.0,Pussy,6,1
+148360.0,South Park,5,0
+148400.0,Ice cream,4,1
+148558.0,Éamon de Valera,2,0
+149911.0,Bicycle,4,0
+151679.0,National Rifle Association,6,1
+152021.0,Kurds,30,1
+152113.0,Martin Heidegger,2,1
+156334.0,Opposition to copyright,0,0
+158505.0,Firefly (TV series),3,0
+159400.0,Pig,1,0
+159422.0,Acupuncture,12,1
+159805.0,Easter Rising,2,1
+159840.0,Battle of Antietam,4,1
+160823.0,Fred Phelps,1,1
+161320.0,Kim Jong-il,3,1
+161674.0,Marxism–Leninism,2,1
+161674.0,Marxism–Leninism,5,0
+161674.0,Marxism–Leninism,7,1
+162218.0,Tsunami,0,1
+162218.0,Tsunami,6,1
+162380.0,Persian people,2,0
+162380.0,Persian people,10,1
+163058.0,Scythians,4,0
+163058.0,Scythians,13,1
+163655.0,Christina Aguilera,5,0
+163655.0,Christina Aguilera,7,1
+163864.0,The Wall,2,1
+165624.0,Line of succession to the British throne,7,0
+167604.0,Duke Kahanamoku,3,1
+167987.0,Editing,0,1
+167987.0,Editing,1,1
+168884.0,Bugsy Siegel,2,0
+174743.0,Monkey,7,1
+177212.0,Guy Fawkes,0,0
+178793.0,Zimbabwe,1,1
+179522.0,War of 1812,7,1
+179522.0,War of 1812,21,0
+179720.0,"St John's College, Cambridge",0,0
+180910.0,Adverb,0,1
+181644.0,"Topeka, Kansas",1,1
+182038.0,Rosa Parks,2,1
+182221.0,Bill Gates,8,1
+182221.0,Bill Gates,17,1
+182221.0,Bill Gates,22,1
+182823.0,Maxwell's demon,0,0
+184145.0,David Irving,10,1
+186834.0,MUD,1,0
+187867.0,Nickel,2,0
+188352.0,Saint Patrick's Day,2,1
+191306.0,Thorium,5,0
+196939.0,Vikings,8,1
+197246.0,Harriet Tubman,11,1
+197953.0,Rachel Corrie,3,1
+198327.0,Ken Ham,1,1
+199341.0,Gay pride,2,1
+199341.0,Gay pride,4,0
+201317.0,Baroque music,2,1
+201549.0,Hyperinflation,2,1
+202510.0,Taiga,0,1
+205529.0,Dinesh D'Souza,11,1
+207645.0,René Descartes,2,0
+210994.0,Tetrahydrocannabinol,3,1
+211044.0,Alcoholism,4,1
+214871.0,Andrew Jackson,2,0
+216201.0,Idi Amin,3,0
+217573.0,Brown v. Board of Education,1,1
+217990.0,Islamophobia,18,1
+219041.0,Genetically modified food,17,1
+221174.0,Hong Kong,16,1
+221258.0,Tour de France,0,0
+224294.0,14th Dalai Lama,14,0
+224770.0,Mother's Day,0,1
+224927.0,Yi Sun-sin,0,1
+224995.0,Mars,8,0
+225438.0,Church of Satan,0,1
+225936.0,Doughnut,1,1
+227507.0,Winter War,4,1
+228446.0,Africa,0,0
+229888.0,Neo-fascism,2,1
+230840.0,Uri Geller,2,1
+231138.0,Earthquake prediction,9,1
+236168.0,Mazda,0,1
+237057.0,Greek Orthodox Church,0,0
+237085.0,National Basketball Association,7,1
+237466.0,Circulatory system,4,1
+239604.0,Battles of Saratoga,1,0
+240572.0,World War II,2,0
+240572.0,World War II,18,1
+245684.0,Zionism,5,1
+261267.0,List of highest-grossing films,36,1
+261624.0,History of India,6,0
+262945.0,Antonio Stradivari,2,0
+262945.0,Antonio Stradivari,3,0
+262945.0,Antonio Stradivari,4,0
+263406.0,Persecution of homosexuals in Nazi Germany and the Holocaust,2,0
+264255.0,Oxford English Dictionary,1,1
+265223.0,World War II casualties,25,0
+267892.0,Jesse Owens,3,1
+269895.0,William Clark,1,1
+272017.0,Michael Jordan,1,0
+272017.0,Michael Jordan,7,0
+273006.0,Pashtuns,16,1
+273006.0,Pashtuns,20,0
+274870.0,China Airlines,0,1
+275542.0,Cocaine,3,1
+277146.0,Rubin Carter,0,0
+279552.0,Sergei Prokofiev,1,0
+280937.0,Indo-Aryan migration theory,10,1
+282246.0,Hindutva,3,1
+282319.0,Led Zeppelin IV,0,1
+282319.0,Led Zeppelin IV,5,0
+284919.0,Scramble for Africa,3,0
+286693.0,Peter principle,9,0
+288109.0,State of Palestine,21,0
+290629.0,Naturopathy,12,1
+290629.0,Naturopathy,15,1
+290629.0,Naturopathy,20,1
+296010.0,Soka Gakkai,14,1
+297026.0,Ashoka,5,0
+300340.0,Autogynephilia,4,1
+301186.0,Asthma,11,1
+301433.0,United Nations Partition Plan for Palestine,3,1
+301433.0,United Nations Partition Plan for Palestine,7,0
+303037.0,Captain Nemo,0,0
+303568.0,History of the Internet,8,0
+304212.0,Transistor–transistor logic,2,1
+304215.0,RS-232,2,1
+304910.0,Assassination of John F. Kennedy,6,1
+306182.0,World of Warcraft,5,1
+308448.0,Albert Fish,0,0
+310107.0,Ezra Pound,2,1
+310834.0,Capcom,1,0
+312209.0,Arthur Sullivan,2,1
+313234.0,Serbs of Croatia,5,1
+314505.0,Pornography addiction,1,1
+314521.0,Ivy League,4,1
+314545.0,List of English words without rhymes,3,1
+318886.0,Ephebophilia,5,0
+322764.0,List of common misconceptions,41,1
+327004.0,Helen Mirren,0,1
+327597.0,Benjamin Netanyahu,2,0
+327797.0,Itō Hirobumi,1,0
+331241.0,Jewish views on marriage,1,1
+333896.0,BBC One,3,1
+337158.0,Omega,1,1
+337158.0,Omega,2,1
+338067.0,Satellite television,0,1
+340028.0,HIV,5,1
+341101.0,Pacific Ocean,1,0
+343921.0,Hardcore punk,5,1
+343927.0,Flower,2,1
+344392.0,Cuban Missile Crisis,3,1
+346000.0,Maus,4,0
+346247.0,2002 Gujarat riots,4,1
+346553.0,Savannah (actress),0,0
+346804.0,Bharatiya Janata Party,19,1
+349019.0,Felix Mendelssohn,0,1
+350197.0,Senkaku Islands,0,1
+352781.0,Progressive tax,10,1
+354019.0,Inca Empire,0,1
+354467.0,Zyklon B,10,1
+355077.0,Self-harm,1,1
+355819.0,Silesian language,0,1
+355962.0,Second Battle of El Alamein,3,1
+356129.0,Emperor Jimmu,9,1
+359349.0,Video game controversies,4,0
+365276.0,Serbs,4,0
+365448.0,Johannes Brahms,4,1
+365714.0,Intel 4004,1,1
+366319.0,Hybrid (biology),2,1
+366529.0,List of Neon Genesis Evangelion characters,1,1
+367946.0,Israeli West Bank barrier,4,1
+370194.0,Libya,1,0
+371751.0,Volcano,1,1
+371751.0,Volcano,3,0
+371751.0,Volcano,5,1
+377015.0,Westboro Baptist Church,4,0
+377015.0,Westboro Baptist Church,6,1
+380566.0,Lady Louise Windsor,0,0
+383597.0,Rum,0,0
+383829.0,Bulgars,13,1
+383829.0,Bulgars,18,0
+399588.0,Nichiren,7,1
+400383.0,Egypt,4,1
+400712.0,Lothal,1,0
+402110.0,Leo Frank,12,1
+404319.0,Saint Thomas Christians,1,1
+407237.0,Carl Nielsen,3,1
+412576.0,Christina Hoff Sommers,4,1
+420338.0,Samus Aran,2,1
+423345.0,Deepak Chopra,18,1
+433351.0,Lyndon LaRouche,5,1
+433583.0,September 11 attacks,2,1
+433583.0,September 11 attacks,17,0
+433583.0,September 11 attacks,18,1
+433583.0,September 11 attacks,41,1
+433583.0,September 11 attacks,42,1
+437707.0,UK Independence Party,10,1
+437733.0,Dependent and independent variables,3,0
+438421.0,Big Ben,2,1
+438879.0,1936 Summer Olympics,1,0
+441322.0,Stanley Kubrick,5,1
+441322.0,Stanley Kubrick,8,1
+442880.0,Chile,6,1
+443319.0,Southern Poverty Law Center,5,1
+443716.0,Robin Williams,2,1
+443716.0,Robin Williams,4,1
+444140.0,Ali,13,1
+447513.0,University of Texas at Austin,3,1
+452015.0,Saint Patrick,0,1
+452183.0,Passover massacre,0,1
+454668.0,Samurai,3,0
+454749.0,Maslow's hierarchy of needs,1,1
+458917.0,Hard disk drive,14,1
+463358.0,Hot dog,3,0
+463358.0,Hot dog,4,1
+464881.0,Swag,6,0
+465709.0,Gentrification,5,0
+469405.0,Phineas Gage,1,1
+469405.0,Phineas Gage,20,0
+473949.0,Newton's laws of motion,5,1
+473949.0,Newton's laws of motion,6,1
+473949.0,Newton's laws of motion,12,1
+480341.0,Chimpanzee,1,1
+482110.0,List of phobias,5,1
+483893.0,Salem witch trials,2,1
+484133.0,AC/DC,10,0
+484133.0,AC/DC,18,1
+484646.0,Beavis and Butt-Head,3,0
+488295.0,Gorilla,1,1
+488736.0,Ghost,1,1
+490753.0,Radical feminism,0,1
+490753.0,Radical feminism,5,1
+493701.0,Ear,1,1
+493701.0,Ear,4,0
+494292.0,Aftermath of World War I,1,0
+499415.0,Narendra Modi,1,1
+499415.0,Narendra Modi,41,1
+505659.0,Anglo-Saxons,5,1
+505893.0,Henry VII of England,4,0
+509384.0,White Anglo-Saxon Protestant,0,1
+511144.0,Sufism,0,0
+512605.0,Economic growth,15,1
+514385.0,Moby-Dick,5,1
+514385.0,Moby-Dick,10,0
+514984.0,Nazi concentration camps,3,0
+518743.0,Dreamcast,0,1
+521160.0,National Rugby League,2,0
+526632.0,Unicorn,20,0
+532521.0,Textus Receptus,1,0
+540659.0,Tunguska event,1,1
+543919.0,Muhammad,30,1
+545792.0,The Final Cut (album),2,0
+547136.0,Chris Benoit,0,0
+547136.0,Chris Benoit,2,1
+549903.0,Kobe Bryant,2,1
+550824.0,Never Say Die!,2,0
+551220.0,Manchester United F.C.,2,1
+551220.0,Manchester United F.C.,4,0
+551220.0,Manchester United F.C.,9,1
+551220.0,Manchester United F.C.,13,1
+552099.0,...And Justice for All (album),2,0
+554897.0,John Steinbeck,2,1
+557607.0,Saturn,4,1
+557711.0,Paris,6,1
+557711.0,Paris,7,1
+559208.0,Kanye West,8,1
+559208.0,Kanye West,9,1
+559208.0,Kanye West,12,0
+570793.0,Donald Trump,6,1
+570793.0,Donald Trump,13,1
+570793.0,Donald Trump,15,1
+570793.0,Donald Trump,16,0
+575769.0,Queer,3,0
+592907.0,Honor Harrington,0,0
+594126.0,Negative feedback,3,1
+595998.0,Stella Artois,1,1
+600607.0,Lyndon B. Johnson,3,1
+601684.0,Apollo 13,3,1
+605596.0,Tagalog language,3,1
+609621.0,Denali,3,1
+610629.0,Constantine the Great,6,0
+613768.0,Child labour,8,1
+613768.0,Child labour,9,0
+614447.0,List of Palestinians,4,1
+615483.0,Phenethylamine,2,1
+620968.0,Aisha,10,1
+621204.0,John Maynard Keynes,2,0
+622792.0,Murray Rothbard,4,1
+627264.0,History of alternative medicine,2,0
+627342.0,Ted Nugent,1,1
+629047.0,Ayurveda,11,1
+631853.0,Shiatsu,1,0
+639109.0,India,3,1
+639109.0,India,65,1
+643345.0,Athanasius of Alexandria,19,1
+650941.0,History of cricket,2,1
+651584.0,Lewis and Clark Expedition,1,0
+654155.0,Coal,3,1
+664980.0,Immigration to the United States,4,0
+666189.0,Brian Williams,1,0
+667736.0,Kingdom of England,5,1
+668738.0,Gerardus Mercator,1,0
+684452.0,Mikoyan-Gurevich MiG-21,1,0
+685948.0,Lina Medina,2,1
+685992.0,Dalmatian (dog),2,0
+690923.0,Origin of the Romanians,12,1
+693570.0,Kvass,0,0
+695100.0,Ukrainians,11,1
+705369.0,In Flames,0,1
+706971.0,Mighty Morphin Power Rangers,1,0
+714297.0,Jonathan King,25,0
+716641.0,Al Capone,3,0
+717349.0,LaGuardia Airport,0,0
+720814.0,Buttocks,2,1
+735255.0,G4 (TV channel),6,0
+737642.0,Monsanto,6,0
+738188.0,New Order,7,1
+739736.0,Aamir Khan,6,1
+743678.0,Arsenal F.C.,3,0
+743678.0,Arsenal F.C.,11,1
+745553.0,Philo Farnsworth,1,1
+746295.0,Lollipop,1,0
+746543.0,LeBron James,18,0
+746543.0,LeBron James,26,1
+748897.0,List of serial killers by country,1,0
+750054.0,School,3,1
+750814.0,Boeing P-8 Poseidon,6,0
+767681.0,Massacre at Huế,4,1
+770035.0,Sania Mirza,1,0
+771507.0,Children's Online Privacy Protection Act,1,0
+781770.0,Independence Day (United States),3,1
+784786.0,Atari 2600,1,0
+790923.0,"Sophie, Duchess of Hohenberg",0,1
+797753.0,King Arthur (film),3,0
+800790.0,Kamehameha I,5,0
+801713.0,Mountain Dew,3,0
+803647.0,Kama Sutra,7,1
+805860.0,Liberal Party of Australia,6,1
+822570.0,Mongol Empire,3,1
+842397.0,Hamitic,0,0
+847870.0,Ancient Greece,3,1
+847994.0,Hippopotamus,6,1
+859903.0,List of Turkic dynasties and countries,2,1
+862180.0,Dust Bowl,7,0
+862734.0,Gentile,1,1
+867443.0,Malakia,0,1
+869806.0,List of Internet phenomena,6,1
+881019.0,Naive set theory,1,1
+884376.0,Ronald McDonald,2,1
+884489.0,4chan,12,1
+884799.0,AK-47,2,1
+885813.0,Bidet,3,1
+889673.0,Foie gras,3,1
+892081.0,List of unsolved problems in mathematics,0,0
+897820.0,SHA-1,0,0
+903799.0,Pedro I of Brazil,2,1
+907527.0,Bourbon whiskey,1,0
+918980.0,Freyr,2,0
+923947.0,EBay,2,1
+927133.0,LGBT rights by country or territory,9,0
+927133.0,LGBT rights by country or territory,10,0
+930060.0,Top Gear (2002 TV series),10,0
+933986.0,Egyptian pyramids,0,1
+933986.0,Egyptian pyramids,2,1
+940107.0,-stan,2,1
+945664.0,Panzer VIII Maus,1,0
+947750.0,BP,4,1
+951481.0,Sailor Uranus,0,0
+951481.0,Sailor Uranus,1,0
+959994.0,Christian terrorism,6,1
+960986.0,Roger Waters,0,1
+960986.0,Roger Waters,5,1
+966002.0,Ötzi,3,1
+978475.0,Generation Z,11,1
+988474.0,Chemtrail conspiracy theory,3,1
+988474.0,Chemtrail conspiracy theory,11,0
+991878.0,Vasco Núñez de Balboa,2,1
+993606.0,Debito Arudou,18,1
+994179.0,Rick Alan Ross,12,1
+998781.0,Beyoncé,3,1
+1010989.0,Ayman al-Zawahiri,2,0
+1013854.0,International Churches of Christ,1,0
+1017428.0,Amiri Baraka,0,0
+1018584.0,Mutual intelligibility,6,1
+1025831.0,Holodomor,12,0
+1028761.0,Nair,9,0
+1028761.0,Nair,10,0
+1029956.0,Johnny Depp,8,1
+1032613.0,Battles of Lexington and Concord,8,1
+1040558.0,United States invasion of Panama,1,1
+1040674.0,Ben Carson,17,1
+1046974.0,Planned Parenthood,7,1
+1049121.0,New Jersey Institute of Technology,1,0
+1054674.0,The Black Book of Communism,3,0
+1061499.0,Donner Party,2,1
+1077377.0,John D. Rockefeller,2,0
+1080767.0,Portraits of Vincent van Gogh,0,0
+1090067.0,Mizrahi Jews,6,1
+1090067.0,Mizrahi Jews,7,1
+1090922.0,Blaise Pascal,2,1
+1093485.0,Google,2,1
+1093485.0,Google,19,1
+1100505.0,Apollo Command/Service Module,1,0
+1100505.0,Apollo Command/Service Module,4,1
+1103378.0,Pyramid,1,1
+1105168.0,Ancient Egypt,1,1
+1105168.0,Ancient Egypt,3,1
+1105168.0,Ancient Egypt,4,1
+1109326.0,African American Vernacular English,6,0
+1113794.0,Australia,9,0
+1114534.0,Thylacine,1,1
+1119694.0,Lebanon,1,1
+1120769.0,Viktor Yanukovych,1,1
+1121830.0,Genesis creation narrative,0,1
+1121830.0,Genesis creation narrative,12,1
+1128709.0,Leonardo DiCaprio,3,1
+1134957.0,Guy Fawkes Night,6,1
+1134957.0,Guy Fawkes Night,7,1
+1134957.0,Guy Fawkes Night,9,1
+1169183.0,Blue Monday (New Order song),0,0
+1183855.0,Cesc Fàbregas,0,1
+1187707.0,9/11 conspiracy theories,16,1
+1187707.0,9/11 conspiracy theories,19,0
+1195341.0,Craigslist,2,0
+1195456.0,Julius Streicher,1,0
+1205447.0,Ununoctium,1,1
+1215128.0,Dihydrogen monoxide hoax,0,1
+1218268.0,Doomsday Clock,0,0
+1220618.0,Bastard!!,0,1
+1225228.0,Sad Wings of Destiny,1,1
+1233525.0,Steve Gibson (computer programmer),0,0
+1240059.0,Eye color,1,0
+1245005.0,Miroslav Klose,1,1
+1246999.0,Steam (software),8,0
+1248016.0,Jon Stewart,2,0
+1254047.0,Koenraad Elst,7,1
+1256934.0,Harry Reid,2,1
+1258894.0,Christmas Eve,1,0
+1259404.0,Michelle Wie,1,0
+1268767.0,Yadav,7,1
+1279161.0,As-salamu alaykum,1,1
+1280880.0,Benevolent and Protective Order of Elks,1,0
+1282154.0,Burj Khalifa,11,1
+1285752.0,Court of record,3,1
+1287686.0,Newton South High School,1,1
+1301660.0,Islam in Bosnia and Herzegovina,1,0
+1303253.0,Andronovo culture,4,0
+1309693.0,Idiot,1,1
+1314279.0,Trail of Tears,1,1
+1317090.0,Latin Europe,2,1
+1320941.0,List of amendments to the United States Constitution,2,0
+1325891.0,Bicycle-sharing system,2,1
+1341231.0,"""List of films that most frequently use the word """"fuck""""""",7,1
+1342061.0,Oseltamivir,5,1
+1343795.0,Gaulish language,2,1
+1354415.0,Humboldt University of Berlin,0,1
+1368995.0,Franz Boas,0,0
+1372425.0,Genetic fallacy,1,1
+1393977.0,Licence to Kill,2,1
+1393977.0,Licence to Kill,6,1
+1393977.0,Licence to Kill,8,0
+1394208.0,Cell theory,1,0
+1401614.0,Moss,3,0
+1403483.0,James Abbott McNeill Whistler,0,0
+1407837.0,German American,1,1
+1408264.0,Scotty (Star Trek),2,1
+1409082.0,FC Barcelona,16,0
+1419897.0,Game Boy Color,1,0
+1426635.0,Kafir,1,1
+1428875.0,Aram Khachaturian,0,1
+1436678.0,Ghostwriter,2,1
+1443469.0,Ward Churchill,2,1
+1445304.0,Slavery in the United States,14,0
+1448256.0,Era of Good Feelings,0,1
+1448767.0,Greater Romania,4,1
+1455150.0,Paul Gauguin,2,0
+1465015.0,Emu War,5,1
+1467031.0,Black History Month,0,1
+1484493.0,Human rights in North Korea,0,0
+1485417.0,Carly Fiorina,1,1
+1485417.0,Carly Fiorina,7,1
+1485417.0,Carly Fiorina,8,1
+1489097.0,Kyrgyz people,1,1
+1500901.0,Macrophilia,3,1
+1502621.0,Princeton Engineering Anomalies Research Lab,11,0
+1502621.0,Princeton Engineering Anomalies Research Lab,13,0
+1505918.0,Ruby Bridges,2,0
+1512730.0,Coral reef,3,0
+1518065.0,Laurence Olivier,3,1
+1518065.0,Laurence Olivier,8,0
+1527913.0,Mesopotamia,0,1
+1527913.0,Mesopotamia,4,0
+1527913.0,Mesopotamia,5,0
+1528226.0,Bob Hoskins,1,0
+1532516.0,Netherlands,7,0
+1546182.0,Baby colic,0,1
+1548830.0,Sobriquet,2,0
+1554017.0,Carlos Latuff,2,1
+1559590.0,Indianapolis,1,1
+1566549.0,Jane Elliott,2,1
+1571061.0,Homework,3,0
+1582371.0,Carrie Underwood,1,1
+1582471.0,Uncyclopedia,5,0
+1606728.0,Chelsea F.C.,4,0
+1606728.0,Chelsea F.C.,13,1
+1607878.0,Curry's paradox,1,1
+1615269.0,Jamie Foxx,1,1
+1618386.0,Bergen,1,1
+1633984.0,History (TV channel),2,1
+1637601.0,Bernie Sanders,8,1
+1637601.0,Bernie Sanders,15,1
+1638055.0,Paul Keating,0,1
+1640603.0,Helena (empress),1,0
+1644805.0,Joan Rivers,2,1
+1655006.0,White privilege,5,0
+1656005.0,Steven Gerrard,5,0
+1657096.0,Schapelle Corby,3,1
+1657096.0,Schapelle Corby,4,1
+1669311.0,Persecution of Hindus,1,1
+1676324.0,Nigel Farage,12,0
+1678393.0,Andrew Wakefield,19,1
+1687709.0,Ship of Theseus,1,1
+1693192.0,Penis enlargement,3,0
+1693377.0,John Cena,11,1
+1693377.0,John Cena,22,1
+1693377.0,John Cena,23,1
+1700783.0,South Africa,9,1
+1705615.0,Fraction (mathematics),0,1
+1708890.0,Jared Fogle,4,1
+1708890.0,Jared Fogle,11,1
+1728176.0,Kareena Kapoor,6,1
+1743471.0,Leopard 2,1,1
+1755910.0,Tom Brady,10,0
+1757933.0,Artificial general intelligence,3,0
+1758970.0,Sprouting,0,1
+1771777.0,Easy Rider,0,0
+1776848.0,Mawlid,2,1
+1777175.0,"Utica, New York",1,1
+1777175.0,"Utica, New York",3,1
+1777175.0,"Utica, New York",4,0
+1778438.0,Genderqueer,8,0
+1779172.0,List of serial killers by number of victims,0,0
+1779278.0,Emile Heskey,2,0
+1779278.0,Emile Heskey,3,0
+1787113.0,Animal sexual behaviour,1,1
+1801955.0,Cardiovascular disease,3,0
+1801955.0,Cardiovascular disease,5,0
+1810375.0,Peter Sellers,0,0
+1810375.0,Peter Sellers,3,1
+1810375.0,Peter Sellers,5,1
+1810375.0,Peter Sellers,6,0
+1810375.0,Peter Sellers,7,1
+1810375.0,Peter Sellers,8,0
+1810375.0,Peter Sellers,9,1
+1817796.0,Ant & Dec,2,1
+1820102.0,Word order,1,0
+1825730.0,Religion in Norway,0,0
+1868013.0,Liam Neeson,2,1
+1877386.0,Martin Bryant,5,0
+1891950.0,Sofia,5,1
+1902951.0,Pope Benedict XVI,1,1
+1908656.0,Airey Neave,0,0
+1920200.0,Scholarly method,0,1
+1924247.0,Bigotry,2,0
+1942283.0,Golden Dawn (political party),1,1
+1953921.0,List of drug films,1,0
+1971123.0,Mudvayne,0,1
+1971123.0,Mudvayne,8,1
+1974452.0,FC Porto,2,1
+1986710.0,Bald eagle,4,1
+1993744.0,Dire Straits,1,0
+2008387.0,Glyphosate,15,0
+2008387.0,Glyphosate,16,1
+2008387.0,Glyphosate,29,1
+2022128.0,List of programs broadcast by Adult Swim,1,1
+2024177.0,Names for association football,0,1
+2024177.0,Names for association football,1,1
+2025310.0,Disappearance of Natalee Holloway,4,1
+2027789.0,White people in Zimbabwe,2,1
+2034371.0,Historiography of the fall of the Western Roman Empire,1,0
+2039428.0,Bareback (sex),1,1
+2039428.0,Bareback (sex),4,1
+2041252.0,Lothar von Trotha,1,1
+2052193.0,Berenstain Bears,2,1
+2052442.0,Catalysis,1,1
+2068946.0,Anti-Russian sentiment,6,1
+2081507.0,Wendy Doniger,0,1
+2089950.0,Men's rights movement,17,1
+2110267.0,Andhra Pradesh,4,0
+2121445.0,Scott Walker,18,0
+2169655.0,John Cornyn,0,1
+2185238.0,Dick,2,1
+2191428.0,Golden State Warriors,1,1
+2193292.0,Scordatura,3,0
+2198590.0,John Harvard (clergyman),1,0
+2218622.0,Kelpie,8,0
+2221228.0,Junípero Serra,4,0
+2228812.0,Military Frontier,0,1
+2228812.0,Military Frontier,3,1
+2232244.0,Bashar al-Assad,3,1
+2243425.0,Doctor Who,33,1
+2250996.0,Inter Milan,5,1
+2250996.0,Inter Milan,7,1
+2254413.0,Google Earth,4,1
+2255785.0,Race (biology),2,1
+2255785.0,Race (biology),3,1
+2271530.0,E-meter,4,0
+2272040.0,Dorje Shugden controversy,3,0
+2272040.0,Dorje Shugden controversy,12,0
+2272040.0,Dorje Shugden controversy,16,1
+2290726.0,Babur,4,0
+2314416.0,Cultural appropriation,1,0
+2314416.0,Cultural appropriation,18,1
+2315450.0,Lil Wayne,1,1
+2319818.0,Personality test,0,1
+2319872.0,Kareem Abdul-Jabbar,3,1
+2323155.0,Charlie Crist,1,0
+2344150.0,Cheryl Fernandez-Versini,18,1
+2348132.0,"Balochistan, Pakistan",2,0
+2351799.0,Carlos Hathcock,2,0
+2359614.0,V for Vendetta (film),0,1
+2383460.0,Detoxification,2,0
+2387843.0,Ali Khamenei,9,1
+2412500.0,Bactria–Margiana Archaeological Complex,4,1
+2416091.0,Jerome,2,0
+2420595.0,Filipino people,1,1
+2451189.0,Lightning strike,1,1
+2460134.0,Fedora,8,0
+2465288.0,Football (word),2,1
+2474981.0,Warren Jeffs,1,1
+2477260.0,Somalis,1,0
+2494542.0,Burzynski Clinic,11,0
+2513141.0,"Muncie, Indiana",0,1
+2518153.0,Bob Jones University,5,1
+2521078.0,Dachau liberation reprisals,0,1
+2533002.0,Morrill Land-Grant Acts,0,1
+2557594.0,Weimar,0,0
+2566445.0,Mahinda Rajapaksa,0,0
+2567195.0,Dublin Airport,2,0
+2568203.0,Commonwealth realm,3,1
+2575931.0,Royal Australian Air Force,2,1
+2589075.0,"Pavlos, Crown Prince of Greece",1,1
+2589075.0,"Pavlos, Crown Prince of Greece",2,0
+2619221.0,Master System,1,0
+2641100.0,"Brockton, Massachusetts",1,0
+2642105.0,Sega Genesis,4,0
+2661112.0,Philip Seymour Hoffman,0,1
+2661112.0,Philip Seymour Hoffman,3,0
+2661112.0,Philip Seymour Hoffman,8,1
+2671586.0,Terry Fox,1,1
+2679974.0,Ferrari P,6,1
+2692114.0,Chai Vang,1,1
+2693212.0,Pippi Longstocking,0,1
+2770953.0,Mining,5,1
+2772283.0,Falkland Islands sovereignty dispute,1,1
+2788018.0,Paul Walker,4,1
+2805624.0,List of dystopian films,0,0
+2857872.0,QI,3,1
+2859971.0,Greenbelt station,4,1
+2871205.0,Ernest Rutherford,3,0
+2897102.0,Bend It Like Beckham,2,1
+2906795.0,Butter,1,0
+2917211.0,Indiana Evans,0,0
+2921392.0,David Cameron,16,1
+2921392.0,David Cameron,17,0
+2930688.0,List of massacres of Indigenous Australians,2,1
+2935967.0,The Hum,3,1
+2950369.0,Race and appearance of Jesus,5,1
+2952250.0,Automotive lighting,1,1
+2954517.0,2000 Simpsonwood CDC conference,2,0
+2955469.0,Turkey in the Straw,1,0
+2969943.0,Dextroamphetamine,0,0
+2989043.0,Project64,2,1
+2994287.0,Prithviraj Chauhan,6,1
+2997955.0,Adult animation,1,1
+3020527.0,Bob the Builder,4,0
+3072966.0,Railway engines (Thomas & Friends),0,0
+3072966.0,Railway engines (Thomas & Friends),1,1
+3106108.0,Jan van Eyck,1,0
+3119585.0,Paleolithic Continuity Theory,3,1
+3130959.0,Arsenic poisoning,1,1
+3131856.0,Aristides de Sousa Mendes,1,0
+3141732.0,STFU,0,1
+3148144.0,Ajith Kumar,11,1
+3237137.0,Nigga,0,0
+3259294.0,Lahmacun,3,0
+3270913.0,List of Jews in sports,1,0
+3279729.0,Dog meat,10,0
+3299151.0,Oscar López Rivera,5,1
+3306829.0,WMMS,2,0
+3319479.0,Health psychology,0,1
+3331125.0,Frenzy,1,0
+3331178.0,Gerard Way,3,0
+3334058.0,FIFA,4,1
+3336018.0,A-League all-time records,0,0
+3339283.0,List of EastEnders characters,18,1
+3343495.0,VRML,0,0
+3359922.0,PM (BBC Radio 4),2,1
+3360212.0,The Wild One,1,0
+3365565.0,Jesus,1,0
+3365565.0,Jesus,2,1
+3365565.0,Jesus,12,1
+3365565.0,Jesus,14,1
+3414416.0,Jon Snow (character),3,0
+3433959.0,United States,1,1
+3433959.0,United States,3,1
+3433959.0,United States,17,1
+3433959.0,United States,24,0
+3433959.0,United States,25,1
+3433959.0,United States,27,1
+3440371.0,Stephen Collins,0,1
+3458536.0,Arjen Robben,2,1
+3489028.0,Circumcision,0,1
+3489028.0,Circumcision,8,1
+3489028.0,Circumcision,15,1
+3489028.0,Circumcision,26,1
+3489028.0,Circumcision,27,1
+3491273.0,Karl Kruszelnicki,0,0
+3491273.0,Karl Kruszelnicki,2,0
+3492513.0,High fructose corn syrup,4,1
+3494380.0,Justin Trudeau,3,1
+3495983.0,Caitlyn Jenner,5,1
+3495983.0,Caitlyn Jenner,12,1
+3495983.0,Caitlyn Jenner,13,1
+3495983.0,Caitlyn Jenner,15,1
+3495983.0,Caitlyn Jenner,18,1
+3495983.0,Caitlyn Jenner,23,1
+3504852.0,Military history of African Americans,1,1
+3517215.0,Tony Attwood,2,1
+3517215.0,Tony Attwood,3,0
+3517215.0,Tony Attwood,4,1
+3534105.0,John Baird (Canadian politician),0,0
+3539339.0,Dwight Howard,1,1
+3548891.0,Think of the children,2,1
+3572406.0,Kit Kat,1,0
+3581934.0,Krusty Krab,1,1
+3601685.0,Leg shaving,0,0
+3661884.0,Landscape painting,1,1
+3675261.0,Miracle of the Sun,1,0
+3675604.0,Poo,2,0
+3675604.0,Poo,3,1
+3703929.0,The Magnificent Seven,3,0
+3706346.0,Antisemitism,23,0
+3706346.0,Antisemitism,34,1
+3708703.0,The English Patient (film),2,0
+3745230.0,Superpower,4,1
+3752098.0,Recep Tayyip Erdoğan,2,0
+3760091.0,Lusitano,1,1
+3770429.0,Faith healing,10,1
+3822273.0,Bhargava,2,1
+3851163.0,Libertarianism,5,1
+3881269.0,Bob,1,1
+3888848.0,Reddit,12,0
+3934385.0,Cash Money Records,1,0
+3958839.0,Heavy Expanded Mobility Tactical Truck,1,0
+3961937.0,Lonnie Frisbee,1,1
+4006633.0,Charlie Hebdo,0,1
+4032031.0,Brady Campaign,1,0
+4044773.0,Waco siege,0,1
+4044773.0,Waco siege,1,0
+4077634.0,Great Western Railway (train operating company),4,1
+4082587.0,Anglophobia,5,0
+4084559.0,Carat (purity),1,0
+4129823.0,Fart,3,0
+4133224.0,Battle of Chawinda,0,1
+4136190.0,S. Truett Cathy,3,1
+4140907.0,LGBT rights in Russia,1,1
+4191145.0,Lionel Messi,29,1
+4191145.0,Lionel Messi,38,1
+4191145.0,Lionel Messi,39,1
+4194118.0,Barelvi,5,1
+4198490.0,Dwyane Wade,1,1
+4264749.0,Tony Abbott,10,0
+4264749.0,Tony Abbott,30,0
+4265885.0,Jenny Kwan,1,1
+4277246.0,Shaun White,2,1
+4327052.0,William Etty,1,0
+4331863.0,Humanitarian intervention,0,0
+4339767.0,Change of basis,1,1
+4350703.0,Gounder,3,0
+4351409.0,Mother Jones (magazine),2,1
+4396193.0,The Shadow over Innsmouth,0,1
+4398402.0,Chicken nugget,0,0
+4428399.0,Alex McLeish,2,1
+4448167.0,Josh Hutcherson,4,1
+4448736.0,Priyanka Chopra,10,0
+4448736.0,Priyanka Chopra,11,1
+4485551.0,Star polygon,1,0
+4548155.0,Fuck (film),1,0
+4548155.0,Fuck (film),2,1
+4565759.0,Billy Fox (politician),2,1
+4581714.0,Bosnian pyramid claims,6,1
+4581714.0,Bosnian pyramid claims,10,1
+4583910.0,Joe Budden,1,1
+4631128.0,Maternal insult,1,0
+4632258.0,David Hart Smith,0,1
+4636465.0,Boy or Girl paradox,1,1
+4659761.0,Gundulić (family),2,0
+4660341.0,C The Contra Adventure,1,1
+4685133.0,"Ferguson, Missouri",4,1
+4778073.0,Peter Foster,2,1
+4778110.0,Visoki Dečani,0,0
+4806385.0,Zaytuna College,0,1
+4831194.0,Ancient Greek medicine,0,1
+4884235.0,Amanda Palmer,2,1
+4891751.0,Stephen Suleyman Schwartz,0,0
+4960604.0,Maria Shriver,1,0
+4961792.0,Paul Barresi,1,1
+4985236.0,Montgomery Academy,2,0
+5032932.0,Abigail Breslin,0,1
+5051055.0,Elizabethan era,1,1
+5058089.0,Antisemitism in Japan,2,1
+5069800.0,Universe,22,1
+5069881.0,Democracy,5,1
+5075282.0,Epic Systems,1,1
+5088349.0,David Ogden Stiers,1,1
+5093634.0,Flag of Australia,1,0
+5120612.0,Carl Potts,0,1
+5157721.0,Atheism,17,1
+5157721.0,Atheism,24,1
+5157887.0,Evolution,1,0
+5157887.0,Evolution,22,1
+5157887.0,Evolution,35,1
+5180113.0,Greek genocide,6,0
+5220339.0,Post-scarcity economy,5,1
+5226944.0,Rotterdam Blitz,1,0
+5243471.0,Neue Deutsche Härte,0,0
+5255179.0,WWE Intercontinental Championship,2,1
+5332875.0,Box set,0,0
+5370041.0,University Canada West,0,1
+5383681.0,The Holocaust in Poland,0,1
+5399514.0,Ed Miliband,8,0
+5415307.0,Donald and Douglas,2,0
+5434609.0,Almighty Black P. Stone Nation,1,1
+5436247.0,Year-round school in the United States,0,0
+5451374.0,Wikipedia,1,1
+5451374.0,Wikipedia,8,1
+5451374.0,Wikipedia,16,1
+5451374.0,Wikipedia,17,0
+5451374.0,Wikipedia,42,1
+5451374.0,Wikipedia,49,1
+5451374.0,Wikipedia,52,1
+5486667.0,Taylor Swift,6,1
+5486667.0,Taylor Swift,9,0
+5486667.0,Taylor Swift,24,1
+5486667.0,Taylor Swift,31,1
+5517847.0,Religious views of Adolf Hitler,15,0
+5519470.0,Cougar (slang),1,1
+5534651.0,Cheema,1,1
+5559565.0,Iker Casillas,2,0
+5563013.0,Chris Hadfield,0,0
+5571880.0,Enchanted (film),0,1
+5595184.0,Ceres (dwarf planet),11,1
+5642677.0,Mario,3,0
+5644317.0,History of WWE,3,0
+5708451.0,Pep Guardiola,1,1
+5719897.0,Great Stink,0,1
+5752911.0,Ball,1,1
+5752911.0,Ball,3,0
+5769406.0,BBC Radio London,1,1
+5773334.0,Alligator gar,4,0
+5774902.0,2014,9,0
+5774902.0,2014,11,1
+5787262.0,Novak Djokovic,11,1
+5828508.0,Oil of clove,2,0
+5889501.0,Football in Australia,0,1
+5894985.0,Minnesota Zoo,1,1
+5916824.0,Historical regions of Romania,2,0
+5917431.0,Dieudonné M'bala M'bala,0,1
+6049835.0,Violence against women,4,0
+6055755.0,Electronic waste,1,1
+6093878.0,Godhra train burning,6,1
+6135548.0,Abstinence-only sex education,5,1
+6188864.0,Ann B. Davis,3,1
+6210752.0,Dominique Strauss-Kahn,4,1
+6288276.0,Alan Guth,2,0
+6291614.0,Alfred de Grazia/Archive 1,1,0
+6292507.0,Tubthumping,1,0
+6345124.0,Boris Nemtsov,1,1
+6362075.0,Claudia Cardinale,2,1
+6375570.0,Cristina Fernández de Kirchner,10,0
+6376838.0,James H. Fetzer,3,1
+6400010.0,Pac-Man,3,0
+6424317.0,Hafiz Muhammad Saeed,2,0
+6435862.0,Jacque Fresco,7,0
+6441244.0,History of Kentucky,2,1
+6452227.0,John Podesta,1,0
+6464467.0,Kelvin MacKenzie,1,1
+6467215.0,Kolinda Grabar-Kitarović,2,0
+6467849.0,Kristine W,1,0
+6474033.0,Louis van Gaal,3,0
+6485392.0,Dame,1,1
+6504626.0,Neil deGrasse Tyson,3,1
+6590110.0,Anjem Choudary,2,1
+6600861.0,Alternative cancer treatments,7,1
+6600861.0,Alternative cancer treatments,8,1
+6623915.0,Sia Furler,5,1
+6660416.0,Vedad Ibišević,0,1
+6666028.0,Wayne Allwine,1,0
+6667171.0,Whigfield,2,0
+6726451.0,Puppy,4,0
+6733729.0,3D computer graphics software,2,0
+6751330.0,William Burges,0,1
+6757942.0,Zac Efron,3,0
+6792913.0,"Shizuoka, Shizuoka",1,1
+6799952.0,Helminthiasis,1,1
+6820153.0,Regulate (song),0,0
+6888619.0,Action T4,3,1
+6892981.0,Eli Manning,1,1
+6902283.0,Circassians,2,0
+6947020.0,Alignment (Dungeons & Dragons),5,1
+6963857.0,Agnes Martin,1,0
+6968876.0,List of Inuyasha characters,2,0
+7024846.0,Roman Reigns,1,1
+7040441.0,Selena Gomez,17,1
+7066836.0,Jack Evans (D.C. politician),2,0
+7066836.0,Jack Evans (D.C. politician),10,1
+7105472.0,Copenhagen Zoo,0,1
+7190572.0,Dream pop,3,1
+7418263.0,Kim Jong-un,6,1
+7418263.0,Kim Jong-un,8,0
+7418263.0,Kim Jong-un,20,1
+7418263.0,Kim Jong-un,21,1
+7418263.0,Kim Jong-un,22,1
+7418263.0,Kim Jong-un,26,1
+7418263.0,Kim Jong-un,27,1
+7418263.0,Kim Jong-un,44,1
+7429565.0,Arvind Kejriwal,0,0
+7441085.0,World War II in Yugoslavia,5,0
+7451505.0,Frank Gaffney,4,1
+7463889.0,Energy,1,0
+7474751.0,Chicken (food),3,1
+7564763.0,Vance Miller,2,1
+7566485.0,Vanniyar,6,1
+7593211.0,South Yemen,1,1
+7631668.0,Whoniverse,0,1
+7696573.0,Alexander the Great,8,1
+7777393.0,Barack Obama,10,1
+7777393.0,Barack Obama,17,0
+7777393.0,Barack Obama,29,1
+7777393.0,Barack Obama,34,1
+7777393.0,Barack Obama,41,1
+7792582.0,Homosexuality and The Church of Jesus Christ of Latter-day Saints,3,0
+7806139.0,Gun violence in the United States,14,0
+7810721.0,McDonald's,19,1
+7824966.0,Ellalan,1,1
+7863000.0,Ruritanian romance,1,1
+7912209.0,Ace Attorney,1,1
+7954759.0,Michael Bérubé,1,1
+7984144.0,Endometrial cancer,2,0
+7986084.0,Brady Hoke,1,1
+8041635.0,Russell Targ,2,1
+8109005.0,PANDAS,0,0
+8180080.0,Taylor Swift discography,15,0
+8202363.0,Jimmy Wales,9,1
+8202363.0,Jimmy Wales,10,0
+8202363.0,Jimmy Wales,13,1
+8202363.0,Jimmy Wales,28,0
+8221474.0,Francis Brabazon,4,0
+8383756.0,Public opinion of same-sex marriage in the United States,5,1
+8390695.0,Jack Box,0,0
+8390695.0,Jack Box,1,0
+8451090.0,Indigenous Aryans,6,1
+8497462.0,Assyrian people,30,0
+8506626.0,Brain types,2,0
+8506652.0,Shakespeare authorship question,12,1
+8570634.0,Pokémon,4,1
+8570634.0,Pokémon,20,0
+8749989.0,Boku no Pico,2,1
+8749989.0,Boku no Pico,3,1
+8767181.0,List of Sonic the Hedgehog characters,2,0
+8779464.0,List of James Bond novels and short stories,1,1
+8797488.0,Urban area (France),1,0
+8810157.0,List of World War I video games,1,0
+8810723.0,Pleasant Valley War,1,1
+8841787.0,IPhone,17,1
+8867085.0,Hygrophoropsis aurantiaca,2,1
+8939998.0,Liberalism in the United States,0,0
+8950928.0,Mid central vowel,1,0
+9044398.0,Cowra Shire,1,1
+9047847.0,Johnnie Ray,2,1
+9069836.0,Adolescent sexuality in the United States,3,0
+9118402.0,Maryland/North (Mid-Atlantic State) vs South (Southern State),1,1
+9136799.0,Standard penetration test,2,1
+9211925.0,RT (TV network),22,1
+9232032.0,Horse,7,1
+9232032.0,Horse,12,1
+9278128.0,Christine Jorgensen,2,1
+9411405.0,Adventure Time,5,1
+9450779.0,José de Anchieta,0,0
+9457597.0,Pendle Hill,1,0
+9488782.0,Microstamping,2,1
+9508893.0,Spermatocyte,2,1
+9594279.0,Homosexuality,3,0
+9594279.0,Homosexuality,11,1
+9596384.0,Slavery,8,0
+9600074.0,Marco Rubio,5,1
+9607132.0,Cheese,2,0
+9607132.0,Cheese,5,1
+9618603.0,Chabad messianism,1,0
+9724281.0,Hispanic and Latino Americans,12,0
+9766562.0,Benedetto Varchi,1,0
+9940216.0,Tomato,4,1
+9980358.0,Alex Rodriguez,4,0
+10108215.0,IQ and Global Inequality,2,1
+10128968.0,Octoechos (liturgy),0,0
+10179969.0,Intersex,6,1
+10190473.0,Kennedy Bakircioglu,1,1
+10222972.0,The Young and the Restless cast members,4,1
+10364429.0,Simon Collins,3,1
+10369334.0,Tom Daley,2,1
+10401926.0,Filo,2,0
+10436845.0,Bangladesh Liberation War,2,1
+10449887.0,Homosexuality and Roman Catholicism,10,0
+10449887.0,Homosexuality and Roman Catholicism,16,1
+10475768.0,Victoria Nuland,10,0
+10490726.0,"Top, bottom and versatile",0,1
+10506166.0,Pacific Northwest tree octopus,6,1
+10514257.0,Balšić noble family,6,1
+10522290.0,Max Blumenthal,1,0
+10537584.0,Bullying,4,1
+10539078.0,Peggy Mount,2,0
+10556273.0,Gabriel of Białystok,0,0
+10556477.0,Robert Z'Dar,1,0
+10627674.0,Derrick Rose,5,0
+10629655.0,Non-penetrative sex,1,0
+10745489.0,Guy Fieri,2,0
+10752072.0,Karma in Buddhism,3,1
+10768964.0,Katrin Siska,0,1
+10778395.0,Seven seals,4,1
+10789342.0,Brendan Rodgers,1,0
+10860620.0,List of male performers in gay porn films,3,1
+10870961.0,Shrek (character),2,1
+11014701.0,List of ethnic slurs,7,1
+11129768.0,Adolf Hitler,23,1
+11129768.0,Adolf Hitler,24,1
+11129768.0,Adolf Hitler,31,0
+11129768.0,Adolf Hitler,52,1
+11129768.0,Adolf Hitler,54,0
+11129768.0,Adolf Hitler,57,1
+11129768.0,Adolf Hitler,60,1
+11145227.0,Islamic State of Iraq and the Levant,6,1
+11145227.0,Islamic State of Iraq and the Levant,7,1
+11145227.0,Islamic State of Iraq and the Levant,10,1
+11145227.0,Islamic State of Iraq and the Levant,12,0
+11243003.0,Happiness,3,1
+11254555.0,List of women in mathematics,2,1
+11293448.0,Reem Riyashi,1,0
+11324534.0,Sarah Jane Brown,0,1
+11324534.0,Sarah Jane Brown,2,1
+11499015.0,Conversion therapy,0,0
+11513437.0,Set It Off (film),1,0
+11574871.0,Katie Hopkins,11,0
+11613953.0,Shut Up and Drive,0,1
+11613953.0,Shut Up and Drive,1,0
+11613953.0,Shut Up and Drive,2,1
+11613953.0,Shut Up and Drive,3,1
+11666851.0,2013,5,0
+11674519.0,The Island of Doctor Moreau,2,1
+11780627.0,Adelaide city centre,1,0
+11787057.0,Call a spade a spade,1,1
+11934483.0,Boyhood (film),2,1
+12108468.0,Nuclear weapons and Israel,3,0
+12121957.0,Luke Bryan,0,1
+12186762.0,Nizari,4,1
+12197038.0,Monarchy of Canada,2,1
+12254054.0,Smoking,1,0
+12276446.0,List of pornographic actors who appeared in mainstream films,2,1
+12312278.0,Sulbutiamine,1,0
+12363198.0,AKB48,3,0
+12366380.0,Mordecai Kaplan,1,1
+12367096.0,Girls' Generation,1,1
+12367096.0,Girls' Generation,3,0
+12377770.0,Vaccine controversies,6,1
+12459902.0,List of gymnastics flips,0,1
+12572123.0,The Rocky Horror Picture Show,2,1
+12582445.0,Kiev/naming,2,0
+12582445.0,Kiev/naming,10,0
+12582445.0,Kiev/naming,17,1
+12678032.0,Terms for Syriac Christians,3,0
+12751600.0,Illuminati,16,0
+12779994.0,Eurofighter Typhoon,6,1
+12791423.0,Red Eye (TV series),0,1
+12995107.0,Nuclear power in Taiwan,0,1
+13090283.0,Seljuk Empire,5,0
+13093518.0,James Delingpole,0,1
+13321015.0,Touch of Death,1,1
+13375852.0,American Family Association,2,1
+13393925.0,Robert Lewandowski,2,1
+13580242.0,Free and open-source software,3,0
+13591472.0,Americans for Prosperity,9,1
+13626060.0,Association football,14,1
+13724986.0,Instant-runoff voting,2,0
+13868429.0,Bikini waxing,3,1
+13885939.0,Ted Deutch,0,1
+13915007.0,Facebook,5,0
+14061965.0,Huma Abedin,4,1
+14077822.0,List of Prime Ministers of Australia,1,1
+14091105.0,Free Realms,2,0
+14175492.0,Movement for the Survival of the Ogoni People,1,0
+14209950.0,George Koval,1,1
+14256386.0,Melbourne–Voyager collision,0,0
+14318022.0,Dungeons & Dragons,2,0
+14438350.0,Breaking Bad,12,0
+14715411.0,Katana,1,1
+14749231.0,Mexicans of European descent,3,1
+14849140.0,Fidelma Healy Eames,2,0
+14979497.0,Sam Harris,6,1
+14988104.0,Archie McKellar,2,1
+15087626.0,Electronic cigarette,7,1
+15087626.0,Electronic cigarette,17,1
+15087626.0,Electronic cigarette,25,1
+15087626.0,Electronic cigarette,26,1
+15087626.0,Electronic cigarette,36,1
+15216925.0,List of Viz comic strips,0,0
+15216925.0,List of Viz comic strips,1,1
+15216925.0,List of Viz comic strips,2,0
+15239327.0,Speculations about Mona Lisa,7,1
+15246769.0,Pornography,0,0
+15265343.0,Michael Carbonaro,0,1
+15278274.0,New York City,13,1
+15278274.0,New York City,34,1
+15321468.0,American Civil War,7,1
+15321468.0,American Civil War,22,0
+15405125.0,Abiraterone acetate,3,0
+15516171.0,Younger Dryas impact hypothesis,4,0
+15526829.0,International Criminal Court,1,1
+15535547.0,New Zealand English,4,0
+15666509.0,Early human migrations,3,0
+15721132.0,Anonymous (group),8,0
+15721132.0,Anonymous (group),15,1
+15743139.0,Mercury (planet),2,1
+15759956.0,Ancient literature,1,1
+15912294.0,Dance and health,1,1
+15949155.0,Elephant,12,1
+15949209.0,Christopher Columbus,16,1
+15949209.0,Christopher Columbus,37,1
+15949484.0,Lion,5,1
+15950628.0,Banda Calypso,1,0
+16047429.0,G. Edward Griffin,1,1
+16210909.0,Halifax Gibbet,0,0
+16238355.0,An Jung-geun,3,1
+16238355.0,An Jung-geun,4,1
+16392928.0,Bubonic plague,6,0
+16470048.0,John Lennon,8,1
+16593301.0,List of bus routes in London,5,1
+16695580.0,Cannabis (drug),0,1
+16770177.0,No Gun Ri Massacre,8,1
+16770177.0,No Gun Ri Massacre,13,0
+16815135.0,Jupiter,6,1
+16815135.0,Jupiter,11,1
+16829183.0,Taliban,5,1
+16830602.0,Afghanistan,24,0
+16856893.0,List of vegetarians,11,0
+16931440.0,Syriac people,0,0
+16990482.0,Rome,4,1
+17131299.0,Bitch,2,0
+17202643.0,Korean influence on Japanese culture,3,0
+17329375.0,Kris Jenner,1,1
+17577117.0,Mikael Ljungman,0,0
+17578245.0,Neymar,0,0
+17673008.0,Cat,0,0
+17673008.0,Cat,10,1
+17673008.0,Cat,16,1
+17673008.0,Cat,20,1
+17673008.0,Cat,25,1
+17686524.0,Dinosaur,13,0
+17692360.0,Men who have sex with men blood donor controversy,1,0
+17757048.0,Cake,1,0
+17850665.0,Vidya Bharati,0,1
+17913442.0,Bucket toilet,1,1
+17949868.0,Edgar Allan Poe,9,0
+17949868.0,Edgar Allan Poe,12,1
+17950005.0,Ludwig van Beethoven,7,1
+17950106.0,Galileo Galilei,4,0
+17950118.0,Thomas Edison,2,0
+17950118.0,Thomas Edison,16,0
+17950182.0,Ferdinand Magellan,1,1
+17958769.0,History of Japan,3,1
+17958769.0,History of Japan,4,0
+17958769.0,History of Japan,5,1
+17958769.0,History of Japan,9,1
+17958887.0,Crusades,8,1
+17966069.0,Nuttin' but Love,0,1
+18095602.0,DEV Arahura,0,1
+18096297.0,Colin Morgan,1,0
+18212860.0,Quint Studer,10,1
+18280038.0,List of breweries in Washington,1,0
+18395609.0,Christopher Poole,1,0
+18445773.0,Dyke (slang),1,0
+18519495.0,Roblox,24,1
+18540135.0,Mayflower,1,0
+18540135.0,Mayflower,9,0
+18540199.0,James Dean,5,0
+18541686.0,Bosniaks,6,1
+18568208.0,List of best-selling music artists,58,1
+18569659.0,Apollo 11,0,0
+18569659.0,Apollo 11,6,1
+18569659.0,Apollo 11,9,0
+18569659.0,Apollo 11,21,1
+18582590.0,Black hole,4,1
+18605244.0,Stalking,11,1
+18636805.0,Nikola Tesla,23,1
+18636805.0,Nikola Tesla,32,1
+18647201.0,Sloth,3,1
+18647201.0,Sloth,5,0
+18663219.0,Upper Guinea Creole,0,0
+18708753.0,Internet troll,9,1
+18710602.0,List of anime series by episode count,2,1
+18715046.0,Jodie Foster,2,1
+18716060.0,Sigmund Freud,8,0
+18717196.0,Shrek,4,0
+18717445.0,Al-Qaeda,17,1
+18835900.0,"Mary, Queen of Scots",4,1
+18836017.0,Henry VIII of England,6,1
+18848610.0,Ronda Rousey,7,1
+18855262.0,Israeli–Palestinian conflict,4,0
+18962341.0,Mona Lisa,1,0
+18962356.0,Antarctica,2,1
+18973596.0,Eminem,1,1
+18973596.0,Eminem,10,1
+18994040.0,Sand,0,0
+18994525.0,Bill Cosby,34,0
+19005506.0,LA Galaxy,2,0
+19006138.0,Environmental impact of wind power,6,1
+19008491.0,Near-death experience,10,1
+19008764.0,Middle Ages,8,1
+19008856.0,Atlantis,16,1
+19008876.0,Statue of Liberty,17,1
+19097654.0,British people,1,1
+19106619.0,Multi-user MIMO,1,0
+19127798.0,Rock (geology),1,0
+19127798.0,Rock (geology),2,1
+19156494.0,Stupidity,1,0
+19241714.0,Dark Ages (historiography),1,1
+19298491.0,Somalis in the United Kingdom,3,0
+19323368.0,Age disparity in sexual relationships,3,1
+19331863.0,Winston Churchill,1,1
+19342747.0,Wonders of the World,3,1
+19372054.0,Khmer Rouge,2,1
+19381721.0,Stephen Hawking,11,0
+19381801.0,Meaning of life,1,0
+19390191.0,Kim Kardashian,1,1
+19390191.0,Kim Kardashian,3,1
+19390236.0,Russia,5,0
+19390236.0,Russia,24,1
+19405214.0,Keke Geladze,1,1
+19405214.0,Keke Geladze,2,1
+19443773.0,Grigori Rasputin,1,0
+19491622.0,European Union,24,1
+19544263.0,Vladimir Putin,4,1
+19544263.0,Vladimir Putin,13,1
+19544263.0,Vladimir Putin,25,1
+19544263.0,Vladimir Putin,27,1
+19544263.0,Vladimir Putin,33,1
+19555209.0,Ukraine,4,1
+19556891.0,Webster University Thailand,1,0
+19559217.0,Suicide,13,0
+19563513.0,Coffee,0,0
+19592308.0,Racism,6,0
+19592308.0,Racism,14,0
+19592308.0,Racism,32,0
+19594764.0,Goatse.cx,2,1
+19595608.0,Emmett Till,0,1
+19596891.0,Child pornography,7,1
+19596891.0,Child pornography,8,1
+19599755.0,Yemen,0,1
+19605437.0,Leonard Nimoy,1,1
+19605821.0,Czech Republic,18,1
+19606134.0,Sweden,14,1
+19653656.0,Bill Ayers,2,1
+19667125.0,War in Afghanistan (2001–14),2,1
+19667125.0,War in Afghanistan (2001–14),6,0
+19673144.0,I Am... Sasha Fierce,2,0
+19681312.0,Earthworm,3,0
+19681312.0,Earthworm,4,1
+19848997.0,Nirvana (band),1,0
+19904503.0,Transgender,15,1
+20039584.0,Wizard101,2,0
+20074812.0,Bromance,1,1
+20110889.0,Midget,0,1
+20232164.0,The New Game,1,0
+20254510.0,Abhinav Bharat,1,0
+20275044.0,Civilian casualties in the Second Intifada,1,1
+20277216.0,Shlomo Sand,0,0
+20337308.0,Ta-Nehisi Coates,1,1
+20337308.0,Ta-Nehisi Coates,8,1
+20514748.0,North American video game crash of 1983,0,0
+20691683.0,Screw,6,0
+20825461.0,Ron Hamence with the Australian cricket team in England in 1948,2,1
+20834818.0,United Kingdom and the American Civil War,1,0
+20913895.0,Scarlett Johansson,5,1
+20975467.0,Stefan Molyneux,1,1
+20976496.0,Squid,4,0
+20981630.0,Dog,9,1
+20981630.0,Dog,10,1
+20981630.0,Dog,11,1
+20981630.0,Dog,16,1
+20981630.0,Dog,22,1
+20981630.0,Dog,33,1
+20999884.0,Alliance of Independent Social Democrats,1,0
+21005736.0,LOL,0,1
+21005736.0,LOL,4,0
+21005736.0,LOL,6,0
+21031651.0,Peanut butter,6,1
+21068879.0,Ashton Kutcher,1,1
+21073786.0,Deer,5,0
+21091085.0,Albert Einstein,12,0
+21091085.0,Albert Einstein,13,1
+21091085.0,Albert Einstein,23,1
+21091085.0,Albert Einstein,26,0
+21091085.0,Albert Einstein,29,1
+21105794.0,Jonathan Davis,1,1
+21105819.0,Macedonia (ancient kingdom),2,1
+21119682.0,Morrissey,2,0
+21143594.0,Russell Wilson,7,1
+21188432.0,Copyright infringement,1,0
+21190442.0,Tom Cleverley,0,0
+21193885.0,Tiananmen Square protests of 1989,4,1
+21222100.0,Robert Burns,1,1
+21224645.0,Two Seconds,1,1
+21290670.0,Edit,3,1
+21290683.0,Clock,0,0
+21291219.0,Windows XP,14,1
+21294806.0,Adolescence,1,0
+21304840.0,Earth,1,1
+21304840.0,Earth,18,1
+21350721.0,Greenhouse gas,4,1
+21390888.0,Equity and gender feminism,2,1
+21422914.0,List of Presidents of Croatia,2,1
+21438163.0,Cristiano Ronaldo,19,1
+21438163.0,Cristiano Ronaldo,33,1
+21438163.0,Cristiano Ronaldo,43,0
+21438163.0,Cristiano Ronaldo,44,0
+21438298.0,Moors murders,2,0
+21438298.0,Moors murders,9,1
+21438298.0,Moors murders,12,0
+21438298.0,Moors murders,14,1
+21438298.0,Moors murders,16,0
+21463780.0,Byzantine Empire,3,0
+21477086.0,Cleopatra,5,0
+21484125.0,Sheep,3,1
+21514405.0,Monty Hall problem/Arguments,6,1
+21738342.0,Susya,5,1
+21912395.0,Peter Brabeck-Letmathe,2,1
+21915238.0,Genetic engineering,0,0
+21963379.0,Drake (rapper),6,1
+21963379.0,Drake (rapper),18,0
+21986912.0,"United States presidential election, 2016",22,1
+21986912.0,"United States presidential election, 2016",41,1
+22041076.0,Magnetic air car,1,0
+22049244.0,Liberty Counsel,0,1
+22101942.0,St. Ada,1,0
+22262686.0,Plants vs. Zombies,1,1
+22314726.0,Waffen-SS foreign volunteers and conscripts,4,1
+22318943.0,Ernest Hemingway,2,1
+22337914.0,The Zeitgeist Movement,1,0
+22337914.0,The Zeitgeist Movement,2,1
+22337914.0,The Zeitgeist Movement,17,0
+22337914.0,The Zeitgeist Movement,25,0
+22369190.0,Ministry of Culture (Croatia),1,1
+22376516.0,Miley Cyrus,2,1
+22376516.0,Miley Cyrus,3,1
+22376516.0,Miley Cyrus,33,1
+22484372.0,Outrage (2009 film),0,0
+22530706.0,Place names considered unusual,0,0
+22534739.0,Lovin' You,0,1
+22564893.0,Argument from authority,11,1
+22611124.0,Grooveshark,2,1
+22629093.0,DNA,2,0
+22697396.0,Headlamp (outdoor),3,1
+22731207.0,Battle of Loznica (1941),1,0
+22861369.0,Murder of Ross Parker,4,1
+23000529.0,José Mourinho,9,1
+23120393.0,Jesus/FAQ,1,1
+23140655.0,Paul Nuttall,2,1
+23210132.0,Donkey,2,1
+23263567.0,Amin al-Husseini,3,1
+23431855.0,Tosh.0,1,1
+23431855.0,Tosh.0,4,0
+23667664.0,Sex,1,1
+23667664.0,Sex,2,0
+23667664.0,Sex,5,0
+23667664.0,Sex,10,1
+23672747.0,Amy Pond,0,0
+23733922.0,Rose,2,0
+23757033.0,List of iOS devices,2,0
+23776873.0,Boko Haram,0,0
+24088283.0,The Bible and slavery,2,1
+24092573.0,Clive Palmer,0,1
+24254133.0,Ivo Josipović,1,0
+24262490.0,London,1,1
+24262495.0,Mark Zuckerberg,4,0
+24264757.0,Peter Joseph,2,1
+24266831.0,Rula Jebreal,2,1
+24273144.0,Pain in animals,0,1
+24302151.0,"Scottish independence referendum, 2014",15,1
+24397232.0,Tulisa (singer),1,1
+24489800.0,Psychological manipulation,1,1
+24499100.0,Fuck,0,0
+24499100.0,Fuck,1,0
+24499100.0,Fuck,2,1
+24499100.0,Fuck,5,1
+24499100.0,Fuck,8,0
+24499100.0,Fuck,10,1
+24499100.0,Fuck,14,0
+24499100.0,Fuck,16,1
+24499100.0,Fuck,17,1
+24499114.0,Shit,1,1
+24499114.0,Shit,3,0
+24499114.0,Shit,6,0
+24568448.0,Project Riese,2,1
+24616776.0,Parapsychology,7,1
+24634553.0,Solar Roadways,1,1
+24641349.0,Douchebag,4,1
+24648103.0,Chrysler B engine,1,0
+24717914.0,Labour hire,2,0
+24717914.0,Labour hire,4,1
+24761066.0,Internet censorship,3,1
+24761185.0,Genghis Khan,14,1
+24761185.0,Genghis Khan,15,1
+24928187.0,Osama bin Laden,7,1
+25005982.0,South Beach Diet,9,1
+25422218.0,Sleeping Dogs (video game),2,0
+25422218.0,Sleeping Dogs (video game),3,1
+25456830.0,Twitter,21,1
+25463728.0,Mexicans,2,0
+25718662.0,Jen Psaki,1,0
+25846432.0,Weev,1,0
+25854481.0,Rape during the occupation of Germany,4,0
+25977012.0,Daniel Tosh,2,1
+25977012.0,Daniel Tosh,3,1
+25994042.0,LGBT,16,1
+26033897.0,Julian Assange,14,1
+26134215.0,Anal sex,1,1
+26134215.0,Anal sex,2,1
+26134215.0,Anal sex,11,1
+26266632.0,Spamming,2,0
+26276357.0,Croatian language,1,1
+26353158.0,Area 51,3,1
+26353158.0,Area 51,4,1
+26353398.0,Seahorse,0,1
+26378858.0,Carl Frampton,0,0
+26513719.0,Maize,17,1
+26658617.0,Justin Bieber,11,0
+26758391.0,Suicide of Phoebe Prince,1,1
+26820591.0,Ariana Grande,37,1
+26820591.0,Ariana Grande,39,1
+26823377.0,Shane Dawson,11,1
+26823377.0,Shane Dawson,13,1
+26832659.0,Post–World War II air-to-air combat losses,1,0
+26918802.0,"United Kingdom general election, 2015",18,0
+27005456.0,Bruno Mars,7,1
+27007919.0,Kiwi,4,1
+27083514.0,Emmanuel Sanders,0,1
+27132517.0,Giorgio A. Tsoukalos,2,0
+27232118.0,Longest recorded sniper kills,3,1
+27274789.0,Financial Crisis Inquiry Commission,1,1
+27345771.0,"NoMad, Manhattan",1,0
+27691734.0,Chelsea Manning,4,1
+27691734.0,Chelsea Manning,16,1
+27815616.0,Minecraft,7,1
+27815616.0,Minecraft,8,1
+27815616.0,Minecraft,11,1
+27815616.0,Minecraft,19,1
+27815616.0,Minecraft,27,1
+27815616.0,Minecraft,39,1
+27869180.0,Boko Haram insurgency,4,1
+28039710.0,Steve Womack,0,1
+28040870.0,Rita Ora,7,0
+28059849.0,List of Game of Thrones characters,5,0
+28191661.0,Ancient Egyptian multiplication,0,0
+28210165.0,Black Veil Brides,9,1
+28288358.0,Eye movement desensitization and reprocessing,5,1
+28328981.0,Cognitive remediation therapy,2,0
+28653430.0,Lost Girl,4,0
+28683430.0,List of American federal politicians convicted of crimes,1,0
+28798766.0,Sex at Dawn,3,1
+28837867.0,Camila Batmanghelidjh,4,1
+28838861.0,Michael Grimm (politician),2,1
+28838861.0,Michael Grimm (politician),13,1
+29073900.0,"Cheshire, Connecticut, home invasion murders",3,0
+29086702.0,Mark Ghuneim,4,0
+29091475.0,Elliott Management Corporation,1,1
+29100757.0,Aziz Sancar,1,1
+29100757.0,Aziz Sancar,4,1
+29210246.0,Lil B,3,0
+29217785.0,Gamification,3,1
+29218263.0,Wendy Davis (politician),4,1
+29243591.0,Tiger versus lion,8,0
+29257784.0,Naheed Nenshi,1,1
+29309621.0,Ariel Fernandez,8,1
+29372801.0,Dana Loesch,4,1
+29464788.0,Muhammad in the Bible,6,1
+29464788.0,Muhammad in the Bible,7,0
+29577937.0,Davis Cleveland,0,1
+29585030.0,Tube Challenge,2,1
+29766512.0,List of Jewish Nobel laureates,4,1
+30052927.0,Rojava,13,1
+30101622.0,Napoleon,2,0
+30101622.0,Napoleon,11,1
+30415492.0,Pistol,2,1
+30438063.0,Dan Vs.,6,0
+30557900.0,Australian head of state dispute,1,0
+30741836.0,Syrian Civil War,0,1
+30779176.0,List of female action heroes,2,0
+30911357.0,Libyan Civil War (2011),7,1
+30924276.0,Assange v Swedish Prosecution Authority,5,1
+30991071.0,Joni Ernst,2,1
+30991071.0,Joni Ernst,7,1
+31168625.0,Korra,1,1
+31171983.0,Energy Catalyzer,24,1
+31223070.0,India Against Corruption,3,1
+31276099.0,List of earthquakes in New Zealand,1,0
+31363559.0,Chessgames.com,0,0
+31371461.0,Porn Wikileaks,1,1
+31481664.0,Meek Mill,5,0
+31558737.0,Hamilton C shell,0,1
+31647895.0,Monsanto Co. v. Geertson Seed Farms,0,0
+31662678.0,"Canadian federal election, 2015",2,1
+31737095.0,St Mark Passion (attributed to Keiser),0,1
+31760983.0,Go the Fuck to Sleep,1,0
+31816539.0,Frank Ocean,0,0
+31863859.0,Modern Hebrew,7,1
+31954225.0,Super Bowl XLIX,1,1
+32037637.0,Wild and Free-Roaming Horses and Burros Act of 1971,1,0
+32068223.0,North Korea,7,1
+32475881.0,Soccer in Australia,3,1
+32760991.0,CloudFlare,0,0
+32761587.0,Charles Corm,1,0
+32879730.0,Yoshukai Karate,0,0
+33023136.0,Coverage of Google Street View,0,1
+33023136.0,Coverage of Google Street View,1,1
+33191169.0,List of James Bond films,5,0
+33226383.0,WhatsApp,1,1
+33300200.0,Eurasian Economic Union,7,1
+33353479.0,Suzannah Lipscomb,1,1
+33605195.0,Findmypast,0,1
+33606098.0,Perth Agreement,1,1
+33625292.0,Skyfall,5,0
+33625292.0,Skyfall,11,1
+33625292.0,Skyfall,12,1
+33680896.0,Greek government-debt crisis,4,1
+33699776.0,"New South Wales state election, 2015",2,1
+33712975.0,Roger Stritmatter,1,1
+33754957.0,Uber (company),2,1
+34171957.0,Palestinians,3,1
+34222645.0,Abu Bakr al-Baghdadi,1,1
+34222645.0,Abu Bakr al-Baghdadi,22,1
+34272070.0,Chris Kyle,2,1
+34274629.0,One Direction,3,1
+34274629.0,One Direction,5,1
+34274629.0,One Direction,14,1
+34274629.0,One Direction,15,0
+34274629.0,One Direction,21,1
+34274629.0,One Direction,27,1
+34296102.0,Violence against men,1,0
+34684774.0,Martin Shkreli,0,0
+34707018.0,MyWikiBiz,5,1
+34771511.0,Iraq,3,1
+34829020.0,Kalolaa-kumukoa,2,0
+34852514.0,List of Mayday episodes,19,1
+34893734.0,Resource-based economy,1,0
+35097479.0,Jason Russell,1,1
+35097479.0,Jason Russell,3,1
+35152423.0,Trayvon Martin,9,0
+35229151.0,Labour brokering,2,1
+35229151.0,Labour brokering,3,1
+35354468.0,Murder of Oksana Makar,0,0
+35375342.0,Universidad Empresarial de Costa Rica,3,1
+35398071.0,Uncle David,0,0
+35435060.0,List of massacres in Yugoslavia,2,1
+35494395.0,Environmental impact of hydraulic fracturing,6,0
+35626110.0,Spectre (2015 film),19,1
+35867789.0,FPSRussia,2,0
+35965786.0,German acupuncture trials,4,1
+35995224.0,Eurovision Song Contest 2014,14,0
+36041433.0,Ellen Pao,2,1
+36058982.0,The Janoskians,4,0
+36078105.0,Barony of Blackhall,1,1
+36311880.0,Wander Over Yonder,1,0
+36426399.0,Mad Max: Fury Road,5,1
+36516239.0,Samuel Taylor Chadwick,2,0
+36542800.0,Bechdel test,9,1
+36564616.0,Conchita Wurst,0,1
+36606197.0,Alia Bhatt,1,0
+36626848.0,The Wolf of Wall Street (2013 film),1,1
+36626943.0,"John Brooks (soccer, born 1993)",2,1
+36639030.0,Slender Man,2,0
+36643018.0,Artpop,5,1
+36672358.0,Moroccan genetics,2,1
+36700183.0,5 Seconds of Summer,29,0
+36707727.0,Frozen (2013 film),4,1
+36759805.0,Naughty Boy,0,1
+36759805.0,Naughty Boy,2,1
+36759805.0,Naughty Boy,4,0
+36921204.0,Sam & Cat,8,0
+36922023.0,Janet Mock,3,0
+36969423.0,Milorad Mažić,0,1
+37065266.0,Bibliography of encyclopedias,4,1
+37118230.0,Haim (band),4,1
+37165872.0,Dreams from My Real Father,0,0
+37205678.0,Feminist views on transgender and transsexual people,2,1
+37227022.0,Pono (digital music service),2,0
+37229863.0,Trypophobia,5,1
+37260534.0,Reproductive coercion,0,1
+37306181.0,Suicide of Amanda Todd,5,1
+37341001.0,Poop,1,1
+37341001.0,Poop,2,1
+37341001.0,Poop,4,1
+37341001.0,Poop,5,1
+37341001.0,Poop,6,1
+37341001.0,Poop,10,1
+37433448.0,Mike Will Made It,0,1
+37475046.0,The Marshall Mathers LP 2,8,1
+37498043.0,Star Wars: The Force Awakens,32,0
+37498043.0,Star Wars: The Force Awakens,42,1
+37507645.0,Cultural diversity in Puerto Rico,0,0
+37509001.0,List of Tenchi Muyo! characters,1,0
+37563603.0,Goodman Beaver,0,0
+37700167.0,Crimea,7,1
+37743714.0,List of most viewed YouTube videos,0,1
+37783999.0,"Texas gubernatorial election, 2014",0,1
+37837239.0,List of highest-grossing Indian films,10,1
+37920874.0,Capitulatio de partibus Saxoniae,0,1
+37920874.0,Capitulatio de partibus Saxoniae,1,0
+37930130.0,Sandy Hook Elementary School shooting,31,0
+38168092.0,Defensive gun use,6,1
+38270155.0,Philip Benedict,2,1
+38422054.0,True Detective (TV series),1,0
+38424409.0,Exhumation and reburial of Richard III of England,10,1
+38565872.0,WrestleMania XXX,4,1
+38589978.0,PlayStation 4,10,1
+38714949.0,Zeitgeist (film series),2,1
+38714949.0,Zeitgeist (film series),8,1
+38714949.0,Zeitgeist (film series),10,1
+38714949.0,Zeitgeist (film series),11,0
+38714949.0,Zeitgeist (film series),12,1
+38770945.0,Alternative for Germany,7,1
+38854663.0,The Biggest Loser Australia: The Next Generation,1,0
+38965363.0,Elise Andrew,3,1
+38982476.0,Orphan Black,7,1
+38998331.0,Disney Mickey Mouse,3,1
+39079091.0,List of hacker groups,5,1
+39120895.0,Boston Marathon bombing,0,0
+39122482.0,List of Wikipedia controversies,0,1
+39176658.0,List of One Direction members,17,0
+39193422.0,Carnism,0,1
+39231098.0,Xbox One,24,1
+39231861.0,Britain First,3,1
+39233581.0,David Gorski,2,0
+39239605.0,Cecil Rhodes,1,0
+39262786.0,Energetically modified cement,3,1
+39264897.0,2015 Formula One season,18,1
+39272817.0,Avengers: Age of Ultron,12,1
+39272817.0,Avengers: Age of Ultron,41,1
+39320702.0,Transcendence (2014 film),2,0
+39333106.0,Windows 8.1,8,1
+39364727.0,Birdman (film),4,0
+39370437.0,Séralini affair,11,1
+39425010.0,2014 FIFA World Cup Group A,0,1
+39425018.0,2014 FIFA World Cup Group D,1,0
+39459107.0,Murder of Lee Rigby,14,0
+39470030.0,List of Attack on Titan characters,1,1
+39546736.0,Bhutanese passport,3,1
+39550576.0,PewDiePie,5,1
+39550576.0,PewDiePie,18,0
+39550576.0,PewDiePie,23,0
+39551185.0,Dimensionaut,0,0
+39566065.0,Eliot Higgins,8,1
+39626699.0,Edward Snowden,4,1
+39631939.0,Abdul Qayum (imam),1,1
+39639519.0,Shit (disambiguation),0,1
+39642277.0,Fuck: Word Taboo and Protecting Our First Amendment Liberties,0,0
+39642277.0,Fuck: Word Taboo and Protecting Our First Amendment Liberties,1,1
+39642277.0,Fuck: Word Taboo and Protecting Our First Amendment Liberties,3,0
+39642277.0,Fuck: Word Taboo and Protecting Our First Amendment Liberties,4,1
+39752446.0,Jeremy Spencer,1,1
+39798307.0,Theresa Caputo,1,1
+39841081.0,List of films featuring hallucinogens,1,0
+39969867.0,List of armed groups in the Syrian Civil War,6,0
+40019148.0,Debora LMP296,0,1
+40056200.0,Syrian Kurdish–Islamist conflict (2013–present),0,0
+40096064.0,Theresa Donovan,0,0
+40097260.0,Top Dawg Entertainment,0,0
+40137960.0,Louis Tomlinson,9,0
+40137960.0,Louis Tomlinson,15,1
+40232582.0,Fifty Shades of Grey (film),5,1
+40245153.0,August 2013 Rabaa massacre,4,1
+40282193.0,List of Thomas & Friends episodes,0,0
+40300346.0,Climate fiction,3,1
+40316470.0,Ghouta chemical attack,12,1
+40316470.0,Ghouta chemical attack,21,1
+40388613.0,List of Filipino inventions and discoveries,1,0
+40422296.0,Metacompiler,2,1
+40438763.0,Tom Cassell,2,0
+40468685.0,Khan al-Assal chemical attack,5,1
+40533747.0,Paddington (film),4,0
+40606198.0,August Alsina,0,1
+40663213.0,List of films with a 100% rating on Rotten Tomatoes,1,1
+40700917.0,Dan Bilzerian,0,1
+40756282.0,List of offenders executed in the United States in 2013,1,0
+40799974.0,Paris Lees,1,1
+40891768.0,@midnight,1,0
+40891768.0,@midnight,2,1
+40934479.0,Matt Bevin,1,1
+41010317.0,"""Suzukake no Ki no Michi de """"Kimi no Hohoemi o Yume ni Miru"""" to Itte Shimattara Bokutachi no Kankei wa Dō Kawatte Shimau no ka, Bokunari ni Nannichi ka Kangaeta Ue de no Yaya Kihazukashii Ketsuron no Yō na Mono""",0,0
+41044470.0,The Federalist (website),0,1
+41060482.0,Thigh gap,11,0
+41077952.0,The Authority (professional wrestling),11,0
+41107597.0,Paul Flowers (banker),1,0
+41110911.0,List of unrelegated association football clubs,3,0
+41111270.0,The Ultimate Fighter: China,0,0
+41117921.0,The Amazing Race 24,5,1
+41123256.0,Palmer v. Kleargear.com,2,1
+41169537.0,Cultural depictions of the dog,1,0
+41193605.0,Doge (meme),1,1
+41193605.0,Doge (meme),7,1
+41202611.0,Death of Kendrick Johnson,5,0
+41211349.0,Haider (film),1,1
+41292524.0,114th United States Congress,0,0
+41311505.0,RuPaul's Drag Race (season 6),2,1
+41321514.0,KSI (entertainer),10,0
+41346211.0,Simon Mol,1,1
+41358849.0,Michael Sam,2,1
+41360314.0,Adra massacre,0,1
+41360314.0,Adra massacre,1,1
+41367231.0,Dogecoin,2,1
+41443618.0,Nativity (Christus),0,0
+41466438.0,The Interview (2014 film),3,1
+41480804.0,Deaths in 2014,2,1
+41480804.0,Deaths in 2014,11,1
+41496165.0,Charter of Ban Kulin,1,1
+41500476.0,Female infanticide in India,3,0
+41516235.0,Middle Africa,0,1
+41537359.0,"List of terrorist incidents, 2014",1,1
+41561091.0,Early 2014 North American cold wave,0,1
+41580077.0,Cambodian genocide,3,0
+41584298.0,"Wythenshawe and Sale East by-election, 2014",0,1
+41624360.0,Ulster Protestants,1,1
+41678995.0,List of @midnight episodes,1,0
+41693584.0,Intestinal permeability,1,0
+41786251.0,Max Verstappen,2,1
+41807981.0,Flappy Bird,0,1
+41829782.0,Right Sector,4,1
+41894391.0,Marius (giraffe),0,1
+41895145.0,List of civil parishes of County Clare,0,0
+41900535.0,Noor Pur Baghan,0,0
+41928431.0,Fuck (disambiguation)/Archive 1,0,0
+41951248.0,London Spy,0,1
+41963741.0,Investigative Project on Terrorism,1,1
+41970579.0,"John Gielgud, roles and awards",2,1
+41970579.0,"John Gielgud, roles and awards",5,1
+41971510.0,The Pinkprint,3,1
+41981088.0,2014 Ukrainian revolution,0,1
+41981088.0,2014 Ukrainian revolution,7,1
+41981088.0,2014 Ukrainian revolution,20,1
+42038818.0,Real Time Developer Studio,1,0
+42055582.0,2014 Crimean crisis,5,1
+42065080.0,"Crimean status referendum, 2014",2,1
+42068680.0,Mark Karpelès,1,1
+42071292.0,Youth organizations in the United States,0,1
+42085745.0,Ontario Highway 25/GA1,1,0
+42086410.0,2014–15 Russian military intervention in Ukraine,0,1
+42086410.0,2014–15 Russian military intervention in Ukraine,12,1
+42086410.0,2014–15 Russian military intervention in Ukraine,27,1
+42142539.0,Malaysia Airlines Flight 370,0,1
+42142539.0,Malaysia Airlines Flight 370,26,1
+42152600.0,GISHWHES/GA1,3,0
+42163399.0,List of Marvel Cinematic Universe films,12,1
+42197375.0,Assault weapons legislation in the United States,2,1
+42201525.0,Annise Parker,0,0
+42232208.0,Annexation of Crimea by the Russian Federation,2,1
+42232208.0,Annexation of Crimea by the Russian Federation,14,1
+42232208.0,Annexation of Crimea by the Russian Federation,29,1
+42248485.0,Natalia Poklonskaya,0,1
+42248485.0,Natalia Poklonskaya,3,1
+42254773.0,Anzu (dinosaur),0,1
+42268816.0,Captain Ahab,2,1
+42298009.0,List of Adolf Hitler's personal staff,4,0
+42298094.0,2014 Oso mudslide,0,1
+42317780.0,List of Google Doodles in 2014,0,1
+42319920.0,2012 VP113,2,0
+42345103.0,Ebola virus epidemic in West Africa,5,1
+42350864.0,Enaction (philosophy),1,0
+42369411.0,JoJo's Bizarre Adventure: Stardust Crusaders,3,1
+42369411.0,JoJo's Bizarre Adventure: Stardust Crusaders,4,0
+42369411.0,JoJo's Bizarre Adventure: Stardust Crusaders,7,0
+42378204.0,American Skyship Industries,1,1
+42380567.0,UE Boom,3,0
+42392502.0,Doctor Strange (film),10,0
+42426226.0,Donetsk People's Republic,0,1
+42426226.0,Donetsk People's Republic,1,1
+42426226.0,Donetsk People's Republic,13,0
+42444820.0,Unidan,0,1
+42446522.0,Ethereum,0,0
+42449789.0,Black Knight satellite,6,1
+42451145.0,Timeline of the 2014 pro-Russian unrest in Ukraine,8,0
+42471562.0,Bundy standoff,0,1
+42475926.0,Gun control after the Sandy Hook Elementary School shooting,0,1
+42490796.0,2016 Formula One season,15,0
+42521403.0,"Opinion polling for the Scottish independence referendum, 2014",8,1
+42564546.0,War in Donbass,1,1
+42564546.0,War in Donbass,11,1
+42564546.0,War in Donbass,16,1
+42564546.0,War in Donbass,24,1
+42579700.0,2014 FIFA World Cup squads,2,1
+42583023.0,Oathkeeper,8,1
+42621047.0,Podemos (Spanish political party),4,1
+42629980.0,Gender bias on Wikipedia,4,1
+42650051.0,2 May 2014 Odessa clashes,0,1
+42650051.0,2 May 2014 Odessa clashes,10,0
+42650051.0,2 May 2014 Odessa clashes,11,1
+42651760.0,Do What U Want/GA1,1,0
+42718618.0,Eurovision Song Contest 2015,31,1
+42718618.0,Eurovision Song Contest 2015,33,1
+42731325.0,Gay sexual practices,6,1
+42735521.0,Cecily McMillan,3,0
+42757079.0,White savior narrative in film,21,0
+42800434.0,One Million Plan,1,1
+42802223.0,Complete Rarities: Warner Bros. 1988–2011,0,1
+42853535.0,2014 Isla Vista killings,0,1
+42853535.0,2014 Isla Vista killings,1,1
+42888891.0,Azov Battalion,15,1
+42905878.0,Manosphere,5,1
+42912818.0,Zoë Quinn,1,1
+42912818.0,Zoë Quinn,2,1
+42938739.0,2014 pro-Russian unrest in Ukraine,3,1
+42938739.0,2014 pro-Russian unrest in Ukraine,10,0
+42951178.0,The Amazing Race 25,0,0
+42974380.0,Blue men of the Minch,1,1
+42978383.0,Bon Secours Mother and Baby Home,3,0
+43056467.0,2014 kidnapping and murder of Israeli teenagers,1,1
+43060188.0,Operation Zarb-e-Azb,6,0
+43063253.0,Putin khuilo!,0,1
+43063253.0,Putin khuilo!,1,0
+43063253.0,Putin khuilo!,6,1
+43110994.0,List of Big Brother 16 HouseGuests (U.S.),0,0
+43146284.0,LGBT in the Middle East,0,0
+43153738.0,Rings of Saturn (band),0,0
+43200071.0,America: Imagine the World Without Her,2,1
+43200071.0,America: Imagine the World Without Her,6,1
+43202674.0,Lorde,7,1
+43230298.0,Skilled Group,5,1
+43230298.0,Skilled Group,7,0
+43244892.0,2014 Israel–Gaza conflict,0,1
+43326740.0,Malaysia Airlines Flight 17,0,1
+43326740.0,Malaysia Airlines Flight 17,13,1
+43340570.0,Anita Sarkeesian,9,1
+43340570.0,Anita Sarkeesian,15,1
+43340570.0,Anita Sarkeesian,21,1
+43340570.0,Anita Sarkeesian,36,1
+43349382.0,"Candidates of the Victorian state election, 2014",1,0
+43362727.0,Death of Eric Garner,4,1
+43383195.0,Timeline of the 2014 Israel–Gaza conflict,3,0
+43397486.0,Vani Hari,5,1
+43397486.0,Vani Hari,6,1
+43397486.0,Vani Hari,11,1
+43397486.0,Vani Hari,22,1
+43397486.0,Vani Hari,23,1
+43438026.0,Dreams Worth More Than Money,2,1
+43496870.0,Beepi,4,0
+43529737.0,Shooting of Michael Brown,0,1
+43529737.0,Shooting of Michael Brown,1,1
+43592764.0,Akhil Bharatiya Itihas Sankalan Yojana,1,0
+43600144.0,Ferguson unrest,0,1
+43600144.0,Ferguson unrest,9,1
+43607282.0,Five Nights at Freddy's,1,1
+43607282.0,Five Nights at Freddy's,6,0
+43665471.0,Amanda Eliasch,1,0
+43683307.0,Cold War II,3,1
+43687205.0,Royal Rumble (2015),3,1
+43708238.0,ISIL beheading incidents,8,1
+43710353.0,List of fastest production cars by acceleration,2,1
+43710353.0,List of fastest production cars by acceleration,8,0
+43735221.0,Battle of Ilovaisk,8,1
+43749988.0,Rondo in C minor (Bruckner),1,1
+43758735.0,Gamergate controversy,0,1
+43758735.0,Gamergate controversy,2,1
+43766339.0,Timeline of ISIL related events,9,0
+43782056.0,Gamergate controversy/FAQ,1,1
+43940886.0,Java Man/GA1,0,0
+43941480.0,Rape during the Bosnian War/GA1,1,0
+43941480.0,Rape during the Bosnian War/GA1,6,0
+43975936.0,American-led intervention in Iraq (2014–present),0,1
+43989959.0,Windows 10,28,0
+44020117.0,Colleen Evans,2,1
+44034670.0,Charlo Greene,0,1
+44099481.0,Brianna Wu,19,0
+44256176.0,Silent Intifada,3,1
+44256738.0,Trent Whiddon,1,1
+44262805.0,Blank Space,2,1
+44267625.0,Mattress Performance (Carry That Weight),4,1
+44302598.0,8chan,1,1
+44305148.0,Tom MacArthur,1,1
+44334991.0,Polandball,2,1
+44349781.0,November 2014 Bering Sea cyclone,1,1
+44351054.0,Bajrangi Bhaijaan,1,1
+44379832.0,Gaza beach explosion (2006),1,1
+44437120.0,2014 Jerusalem synagogue attack,1,0
+44468590.0,"List of violent incidents in the Israeli–Palestinian conflict, 2014",0,1
+44503842.0,Denuvo,6,0
+44520897.0,Samira Samii,0,1
+44524230.0,Monkey selfie,1,1
+44532936.0,Domestic violence in lesbian relationships,1,0
+44533434.0,2015 FFA Cup preliminary rounds,6,0
+44542511.0,The Game Awards,1,1
+44547150.0,Earth to Luna!,0,0
+44547150.0,Earth to Luna!,1,0
+44588672.0,Cantor's first uncountability proof/GA1,2,1
+44588822.0,Fredrick Brennan,0,1
+44608158.0,Colleyville Heritage High School/2014 Rewrite Draft,5,0
+44641599.0,A Rape on Campus,5,1
+44696158.0,Pegida,4,1
+44723613.0,2014 Sydney hostage crisis,0,1
+44723613.0,2014 Sydney hostage crisis,1,1
+44739555.0,2014 Peshawar school massacre,0,1
+44741663.0,Perike,0,1
+44749080.0,The Challenge: Battle of the Exes II,1,0
+44773701.0,Survivor: Worlds Apart,14,0
+44819351.0,George Billman,1,1
+44828312.0,Lizard Squad,11,1
+44832159.0,List of Blackpool tramway tram stops,0,0
+44843336.0,Emin Xhinovci,1,1
+44855475.0,Deaths in 2015,4,1
+44855475.0,Deaths in 2015,8,1
+44855475.0,Deaths in 2015,9,1
+44891241.0,Death of Leelah Alcorn,0,1
+44938110.0,Women's rights in 2014,0,1
+44969271.0,Charlie Hebdo shooting,0,1
+44975709.0,Survivor Series (2015),3,1
+44976250.0,Mia Khalifa,2,1
+44976751.0,Moby Dick (whale),1,1
+44976751.0,Moby Dick (whale),2,1
+44977547.0,"TLC: Tables, Ladders and Chairs (2015)",0,0
+44977547.0,"TLC: Tables, Ladders and Chairs (2015)",1,1
+45051406.0,Charlie Hebdo issue No. 1178,1,1
+45145989.0,War in Afghanistan (2015–present),7,1
+45188517.0,The Magician's Apprentice (Doctor Who),4,1
+45222325.0,Humans (TV series),0,0
+45235213.0,Dave & Buster's,2,0
+45239649.0,Thirty-fourth Amendment of the Constitution of Ireland,1,1
+45332304.0,Arab street/GA1,1,0
+45341550.0,Monsanto legal cases,1,0
+45381165.0,Zayn Malik,1,1
+45381165.0,Zayn Malik,5,1
+45403456.0,Jennifer Lopez,4,0
+45403810.0,Russell Brand,6,0
+45403810.0,Russell Brand,10,0
+45446427.0,The Voice (U.S. season 8),3,1
+45459649.0,Total Drama Presents: The Ridonculous Race,7,1
+45506616.0,American Horror Story: Hotel,7,0
+45533360.0,21st Century mini-ice age conjecture,0,1
+45544898.0,DDR Holdings v. Hotels.com,1,0
+45628563.0,Parallel Lines (Dick Gaughan & Andy Irvine album),2,0
+45651740.0,2015 University of Oklahoma Sigma Alpha Epsilon racism incident,0,1
+45653040.0,Star Television Network,3,1
+45662484.0,The Steps of the Sun,3,0
+45680867.0,Military on Gotland,0,0
+46190124.0,Big Brother 16 (UK),4,1
+46207792.0,Big Brother Canada (season 3),0,1
+46209165.0,Murder of Farkhunda,2,0
+46213050.0,Germanwings Flight 9525,0,1
+46261212.0,Thomas & Friends (series 19),2,0
+46263754.0,A-League transfers for 2015–16 season,3,1
+46347823.0,Shooting of Walter Scott,0,0
+46374182.0,Stephen Curry,5,1
+46415358.0,European migrant crisis,0,1
+46417772.0,Liberland,0,1
+46429481.0,Fly Away Solo,0,0
+46459490.0,Samsung,2,1
+46491098.0,Death of Freddie Gray,1,1
+46518374.0,Jewish Supremacism: My Awakening to the Jewish Question,0,1
+46518374.0,Jewish Supremacism: My Awakening to the Jewish Question,1,0
+46573058.0,Haciendas of Yucatán,2,0
+46594073.0,Car,9,1
+46598341.0,Suicide Squad (film),4,1
+46606796.0,Jade Helm 15 conspiracy theories,8,0
+46638346.0,2015 Knurów riots,1,0
+46649694.0,"Labour Party (UK) leadership election, 2015",6,1
+46650135.0,Next United Kingdom general election,0,1
+46652721.0,Political positions of Jeb Bush,0,0
+46772839.0,Josh Duggar,0,1
+46947035.0,Ceci N'est Pas Un Viol,0,1
+46958854.0,Ingrid Nilsen,0,1
+46991664.0,Agar.io,11,1
+46997678.0,"Donald Trump presidential campaign, 2016",13,1
+47007885.0,2015 Monaco Grand Prix/GA1,2,1
+47010619.0,Charleston church shooting,0,1
+47017014.0,Electronic cigarette aerosol and e-liquid,6,1
+47125268.0,Modern display of the Confederate flag,1,1
+47144169.0,Little Nescopeck Creek/GA1,1,1
+47282009.0,Queen Elizabeth University Hospital,3,1
+47374798.0,Killing of Cecil the lion,0,1
+47374798.0,Killing of Cecil the lion,2,0
+47377795.0,Shooting of Samuel DuBose,0,1
+47400800.0,Duma arson attack,4,1
+47427431.0,Devil Pray/GA1,0,0
+47491054.0,2015 Gold King Mine waste water spill,0,0
+47570328.0,Shaun King (activist),0,1
+47570328.0,Shaun King (activist),1,1
+47573455.0,Deez Nuts (politician),0,0
+47589105.0,2015 Thalys train attack,0,1
+47634165.0,Murders of Alison Parker and Adam Ward,0,1
+47651986.0,Kalyeserye,5,0
+47669741.0,2014 Formula One season,0,1
+47692782.0,Kim Davis (county clerk),0,1
+47734339.0,Kevin Folta,0,1
+47744616.0,Bigg Boss 9,3,1
+47867885.0,Manika (singer),1,0
+47893350.0,Piggate,0,1
+47905399.0,Ahmed Mohamed clock incident,0,1
+47917574.0,2015 Mina stampede,0,1
+47996728.0,Umpqua Community College shooting,0,1
+48024608.0,NewsBank,0,0
+48101410.0,Athanasius of Alexandria/Archive 1,1,0
+48235888.0,Rainey Bennett,0,0
+48422023.0,Metrojet Flight 9268,0,1
+48505869.0,Crowdfunding,2,1
+48550006.0,Reactions to the November 2015 Paris attacks,0,1
+48638947.0,2015 Russian Sukhoi Su-24 shootdown,0,1
+48711778.0,2015 San Bernardino attack,0,1
+48866568.0,Mohamed Hadid,1,0
+48866568.0,Mohamed Hadid,2,1
