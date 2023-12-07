@@ -33,10 +33,11 @@ The dataset used in this project is based on [Wikidetox](https://meta.wikimedia.
 ## File structure
 ```
 ├── code  
-│   ├── labelling          #
-│   ├── matching      # Code related to the preprocess of matching and matching itself
-│   ├── TODO          #
-├── Data         # 
-│   ├── TODO          # 
+│   ├── labelling               # Code related to the "target" and "latecomer" labelling
+│   ├── matching                # Code related to the preprocess of matching and matching itself
+│   ├── qualitative_analysis    # Code related to the qualitative analysis (thread reconstruction) 
+│   ├── TODO                    #
+├── Data                        # 
+│   ├── TODO                    # 
 └── README
 ```
