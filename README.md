@@ -1,16 +1,5 @@
 # Analysis of Online Interpersonal Conflict
 
- 
-
-## TODO
-- [ ] Upload the necessary large data through Google Drive, put the link in README
-- [ ]  cumulative_word_count_past_month.tsv
-- [ ]  matched_thread_2014_2015.tsv
-- [ ]  matched_pairs_full_2014_2015.csv
-- [ ]  2013,2014,2015 labelled data (2013 is used for matching)
-- [ ]  pages_with_at_least_two_threads_2014_2015.tsv
-- [ ] Upload the code
-
 
 ## Data
 The dataset used in this project is based on [Wikidetox](https://meta.wikimedia.org/wiki/Research:Detox). The large processed data that created during the preprocessing and used for is put on Google Drive.
